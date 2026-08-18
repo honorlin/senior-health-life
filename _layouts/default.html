@@ -1,1 +1,42 @@
-<!doctype html><html lang="zh-Hant-TW"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#287d73">{% seo %}<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}"><link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}"></head><body><header class="site-header"><div class="wrap nav"><a class="brand" href="{{ '/' | relative_url }}">樂齡好生活</a><nav class="nav-links" aria-label="主要選單"><a href="{{ '/' | relative_url }}#topics">健康主題</a><a href="{{ '/articles/' | relative_url }}">最新文章</a><a href="{{ '/about/' | relative_url }}">關於我們</a><a href="{{ '/safety/' | relative_url }}">內容安全</a></nav><div class="reading-tools" aria-label="字體大小"><button data-font="down">字小一點</button><button data-font="up">字大一點</button></div></div></header><main>{{ content }}</main><footer class="site-footer"><div class="wrap"><strong>樂齡好生活</strong><p>把複雜健康資訊，整理成每天可以實踐的小行動。</p><p>本站提供一般健康生活資訊，不能取代醫療專業人員的個別建議。</p></div></footer><script src="{{ '/assets/js/main.js' | relative_url }}"></script></body></html>
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f7f3e8">
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">跳到主要內容</a>
+  <header class="site-header">
+    <div class="wrap nav">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="樂齡好生活首頁">
+        <span class="brand-mark" aria-hidden="true">樂</span>
+        <span><strong>樂齡好生活</strong><small>Senior Wellbeing Journal</small></span>
+      </a>
+      <nav class="nav-links" aria-label="主要選單">
+        <a href="{{ '/' | relative_url }}#topics">健康主題</a>
+        <a href="{{ '/articles/' | relative_url }}">最新文章</a>
+        <a href="{{ '/about/' | relative_url }}">關於我們</a>
+        <a href="{{ '/safety/' | relative_url }}">內容準則</a>
+      </nav>
+      <div class="reading-tools" aria-label="調整字體大小">
+        <button data-font="down" aria-label="縮小文字">A−</button>
+        <button data-font="up" aria-label="放大文字">A＋</button>
+      </div>
+    </div>
+  </header>
+  <main id="main-content">{{ content }}</main>
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div><a class="footer-brand" href="{{ '/' | relative_url }}">樂齡好生活</a><p>把複雜健康資訊，整理成每天可以實踐的小行動。</p></div>
+      <div><strong>內容導覽</strong><a href="{{ '/articles/' | relative_url }}">最新文章</a><a href="{{ '/about/' | relative_url }}">關於我們</a><a href="{{ '/safety/' | relative_url }}">內容安全準則</a></div>
+      <div><strong>安心閱讀</strong><p>本站提供一般健康生活資訊，不能取代醫療專業人員的個別建議。</p><span class="supporter">台記生技支持</span></div>
+    </div>
+    <div class="wrap footer-bottom">© {{ 'now' | date: "%Y" }} 樂齡好生活・繁體中文健康知識網站</div>
+  </footer>
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>
