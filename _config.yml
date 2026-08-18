@@ -1,5 +1,5 @@
-title: 樂齡好生活
-description: 50歲後，看得懂、做得到的健康生活指南
+title: 台灣樂齡好生活
+description: 身心健康・自在生活・笑容常在
 lang: zh-TW
 timezone: Asia/Taipei
 url: "https://honorlin.github.io"
@@ -21,4 +21,4 @@ defaults:
       type: posts
     values:
       layout: post
-      author: 樂齡好生活編輯室
+      author: 台灣樂齡好生活編輯室
