@@ -14,11 +14,13 @@ tone:
   - 不誇大
   - 使用繁體中文與台灣用語
 design:
-  primary: "#287d73"
-  secondary: "#e7f4ef"
-  accent: "#d78b4a"
-  ink: "#24342f"
-  background: "#fbfdfb"
+  palette: 溫暖陽光黃
+  primary: "#8a5a00"
+  secondary: "#fff4c7"
+  accent: "#e5a000"
+  ink: "#332a1d"
+  background: "#fffcf2"
+  line: "#ebdfaf"
   body_font_min_px: 19
   line_height: 1.8
 categories:
