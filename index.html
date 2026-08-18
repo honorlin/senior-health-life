@@ -3,4 +3,41 @@ layout: default
 title: 樂齡好生活
 description: 50歲後，看得懂、做得到的健康生活指南
 ---
-<section class="hero"><div class="wrap"><p class="eyebrow">50歲後的日常健康夥伴</p><h1>每天照顧一點，<br>生活安心很多。</h1><p class="lead">不製造焦慮，不誇大效果。我們把可信的健康資訊，整理成看得懂、今天就能做到的小行動。</p><div class="actions"><a class="btn" href="#latest">閱讀最新文章</a><a class="btn alt" href="{{ '/safety/' | relative_url }}">我們如何審查內容</a></div></div></section><section id="topics"><div class="wrap"><h2 class="section-title">六個生活主題</h2><div class="grid">{% for item in site.data.site.categories %}<article class="card"><h3>{{ item.name }}</h3><p>{{ item.description }}</p><a href="{{ '/articles/' | relative_url }}#{{ item.key }}">查看相關內容</a></article>{% endfor %}</div></div></section><section id="latest"><div class="wrap"><h2 class="section-title">最近更新</h2><div class="post-list">{% for post in site.posts limit:6 %}<article class="post-item"><a href="{{ post.url | relative_url }}">{{ post.title }}</a><p>{{ post.description }}</p><span class="meta">{{ post.date | date: "%Y年%m月%d日" }}</span></article>{% else %}<div class="notice">第一批內容正在安全審查中，完成後會在這裡出現。</div>{% endfor %}</div></div></section><section><div class="wrap notice"><strong>重要提醒</strong><br>本站不提供疾病診斷、治療、停藥或換藥建議。身體不適或有個別健康狀況時，請諮詢醫師、藥師或營養師。</div></section>
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div class="hero-copy">
+      <p class="eyebrow"><span></span>50歲後的日常健康夥伴</p>
+      <h1>把健康知識，<br><em>變成安心日常。</em></h1>
+      <p class="lead">不製造焦慮，不誇大效果。我們查找可信資料、說明資訊界線，再整理成看得懂、今天就能做到的小行動。</p>
+      <div class="actions"><a class="btn" href="#latest">閱讀最新文章 <span>→</span></a><a class="text-link" href="{{ '/safety/' | relative_url }}">了解內容審查方式</a></div>
+      <div class="hero-proof"><span>✓ 繁體中文</span><span>✓ 熟齡大字體</span><span>✓ 標示參考來源</span></div>
+    </div>
+    <div class="hero-art" aria-label="健康生活知識與日常行動插畫">
+      <div class="sun-disc"></div>
+      <div class="editorial-card card-main"><span class="mini-label">本週精選</span><strong>從每天的小習慣<br>開始照顧自己</strong><div class="illustration"><i></i><b></b><u></u></div></div>
+      <div class="editorial-card card-note"><span>今日練習</span><strong>散步 10 分鐘</strong></div>
+      <div class="quality-seal"><strong>安心</strong><small>閱讀</small></div>
+    </div>
+  </div>
+</section>
+<section class="trust-bar">
+  <div class="wrap trust-grid">
+    <div><strong>可信來源</strong><span>優先參考政府與公共衛生機構</span></div>
+    <div><strong>清楚界線</strong><span>一般知識不取代醫療診斷</span></div>
+    <div><strong>容易實踐</strong><span>短段落、大字體、具體小行動</span></div>
+  </div>
+</section>
+<section id="topics" class="topics-section">
+  <div class="wrap">
+    <div class="section-head"><div><p class="eyebrow"><span></span>依生活需要探索</p><h2 class="section-title">六個熟齡生活主題</h2></div><p>從飲食、活動到睡眠與家庭陪伴，選擇現在最關心的內容。</p></div>
+    <div class="grid topic-grid">{% for item in site.data.site.categories %}<article class="card topic-card"><span class="topic-number">0{{ forloop.index }}</span><div><h3>{{ item.name }}</h3><p>{{ item.description }}</p><a href="{{ '/articles/' | relative_url }}#{{ item.key }}">查看相關內容 <span>→</span></a></div></article>{% endfor %}</div>
+  </div>
+</section>
+<section id="latest" class="latest-section">
+  <div class="wrap">
+    <div class="section-head"><div><p class="eyebrow"><span></span>編輯精選</p><h2 class="section-title">最近更新</h2></div><a class="all-link" href="{{ '/articles/' | relative_url }}">查看全部文章 →</a></div>
+    <div class="article-grid">{% for post in site.posts limit:6 %}<article class="article-card"><a class="article-image" href="{{ post.url | relative_url }}">{% if post.image %}<img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title | escape }}" width="1200" height="630" loading="lazy">{% else %}<span class="image-placeholder"><i></i></span>{% endif %}</a><div class="article-body"><span class="article-category">{{ post.category_name | default: post.category }}</span><h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3><p>{{ post.description }}</p><div class="article-meta"><time>{{ post.date | date: "%Y年%m月%d日" }}</time><a href="{{ post.url | relative_url }}" aria-label="閱讀{{ post.title }}">閱讀 →</a></div></div></article>{% else %}<div class="notice">第一批內容正在安全審查中，完成後會在這裡出現。</div>{% endfor %}</div>
+  </div>
+</section>
+<section class="principles-section"><div class="wrap principles"><div><p class="eyebrow light"><span></span>我們的承諾</p><h2>讓健康資訊<br>值得信任，也容易理解。</h2></div><div class="principle-list"><p><strong>01</strong><span><b>不渲染焦慮</b>以平穩、尊重的方式說明健康資訊。</span></p><p><strong>02</strong><span><b>不誇大效果</b>不把食品或保健品說成疾病治療。</span></p><p><strong>03</strong><span><b>保留專業界線</b>需要個別判斷時，提醒諮詢醫療專業人員。</span></p></div></div></section>
+<section class="reminder-section"><div class="wrap reminder"><span class="reminder-icon" aria-hidden="true">i</span><div><strong>重要閱讀提醒</strong><p>本站不提供疾病診斷、治療、停藥或換藥建議。身體不適或有個別健康狀況時，請諮詢醫師、藥師或營養師。</p></div><a href="{{ '/safety/' | relative_url }}">閱讀完整準則</a></div></section>
