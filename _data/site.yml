@@ -1,0 +1,42 @@
+brand:
+  name: 樂齡好生活
+  tagline: 50歲後，看得懂、做得到的健康生活指南
+  promise: 把複雜健康資訊，整理成每天可以實踐的小行動。
+  supporter: 台記生技支持
+audience:
+  primary: 50至75歲熟齡族
+  secondary: 40至60歲、關心父母生活的家庭照顧者
+tone:
+  - 溫暖
+  - 清楚
+  - 不製造焦慮
+  - 不責備
+  - 不誇大
+  - 使用繁體中文與台灣用語
+design:
+  primary: "#287d73"
+  secondary: "#e7f4ef"
+  accent: "#d78b4a"
+  ink: "#24342f"
+  background: "#fbfdfb"
+  body_font_min_px: 19
+  line_height: 1.8
+categories:
+  - key: nutrition
+    name: 每日好營養
+    description: 一般飲食、營養素與食品標示
+  - key: movement
+    name: 熟齡好活動
+    description: 散步、伸展、平衡與日常活動
+  - key: sleep
+    name: 一夜好睡眠
+    description: 睡眠環境與生活節奏
+  - key: safety
+    name: 安心好生活
+    description: 居家防跌、外出與生活安全
+  - key: supplements
+    name: 保健品知識
+    description: 成分與標示閱讀，不做療效宣稱
+  - key: family
+    name: 關心父母
+    description: 陪伴、溝通與照顧者實用指南

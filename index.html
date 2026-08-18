@@ -1,0 +1,6 @@
+---
+layout: default
+title: 樂齡好生活
+description: 50歲後，看得懂、做得到的健康生活指南
+---
+<section class="hero"><div class="wrap"><p class="eyebrow">50歲後的日常健康夥伴</p><h1>每天照顧一點，<br>生活安心很多。</h1><p class="lead">不製造焦慮，不誇大效果。我們把可信的健康資訊，整理成看得懂、今天就能做到的小行動。</p><div class="actions"><a class="btn" href="#latest">閱讀最新文章</a><a class="btn alt" href="{{ '/safety/' | relative_url }}">我們如何審查內容</a></div></div></section><section id="topics"><div class="wrap"><h2 class="section-title">六個生活主題</h2><div class="grid">{% for item in site.data.site.categories %}<article class="card"><h3>{{ item.name }}</h3><p>{{ item.description }}</p><a href="{{ '/articles/' | relative_url }}#{{ item.key }}">查看相關內容</a></article>{% endfor %}</div></div></section><section id="latest"><div class="wrap"><h2 class="section-title">最近更新</h2><div class="post-list">{% for post in site.posts limit:6 %}<article class="post-item"><a href="{{ post.url | relative_url }}">{{ post.title }}</a><p>{{ post.description }}</p><span class="meta">{{ post.date | date: "%Y年%m月%d日" }}</span></article>{% else %}<div class="notice">第一批內容正在安全審查中，完成後會在這裡出現。</div>{% endfor %}</div></div></section><section><div class="wrap notice"><strong>重要提醒</strong><br>本站不提供疾病診斷、治療、停藥或換藥建議。身體不適或有個別健康狀況時，請諮詢醫師、藥師或營養師。</div></section>

@@ -1,0 +1,38 @@
+version: 1
+auto_publish:
+  allowed_risk_levels: [green, blue]
+  minimum_sources: 2
+  require_approved_domain: true
+  maximum_posts_per_day: 1
+risk_levels:
+  green:
+    examples: [居家安全, 一般生活習慣, 睡眠環境, 陪伴溝通]
+  blue:
+    examples: [一般營養知識, 食品標示閱讀, 低強度日常活動]
+  yellow:
+    auto_publish: false
+    examples: [慢性病, 藥物交互作用, 腎臟病飲食, 個別營養量]
+  red:
+    auto_publish: false
+    examples: [診斷, 治療, 停藥換藥, 急症判斷, 食品療效]
+blocked_phrases:
+  - 治療
+  - 根治
+  - 抗癌
+  - 降血糖
+  - 降血壓
+  - 清血管
+  - 修復腎臟
+  - 取代藥物
+  - 停藥
+  - 無副作用
+  - 保證有效
+  - 立即見效
+required_sections:
+  - 30秒看懂
+  - 今天可以怎麼做
+  - 哪些情況要先詢問專業人員
+  - 參考資料
+commercial_policy:
+  automatic_product_recommendations: false
+  maximum_commercial_ratio: 0.2

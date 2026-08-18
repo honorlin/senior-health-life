@@ -1,0 +1,17 @@
+approved_domains:
+  - moh.gov.tw
+  - fda.gov.tw
+  - hpa.gov.tw
+  - nhi.gov.tw
+  - cdc.gov.tw
+  - gov.tw
+  - who.int
+  - nhs.uk
+  - mayoclinic.org
+  - health.harvard.edu
+rules:
+  - 優先使用台灣主管機關與公立醫療衛教
+  - 每篇至少兩個來源，其中至少一個政府或國際公共衛生機構
+  - 保存來源標題、網址、發布或更新日期
+  - 來源衝突、無日期或無法開啟時停止發布
+  - 研究摘要不得直接延伸為特定商品功效

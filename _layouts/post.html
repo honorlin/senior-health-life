@@ -1,0 +1,4 @@
+---
+layout: default
+---
+<article class="wrap post"><p class="eyebrow">{{ page.category_name | default: page.category }}</p><h1>{{ page.title }}</h1><p class="meta">發布日期：{{ page.date | date: "%Y年%m月%d日" }}｜風險分級：{{ page.risk_level | default: "已審查" }}</p><p class="lead">{{ page.description }}</p><div class="notice">本文是一般生活資訊，不提供診斷、治療或個別用藥建議。如有不適、慢性病或正在接受治療，請先詢問醫療專業人員。</div>{{ content }}</article>

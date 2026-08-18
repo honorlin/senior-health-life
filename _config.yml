@@ -1,0 +1,24 @@
+title: 樂齡好生活
+description: 50歲後，看得懂、做得到的健康生活指南
+lang: zh-TW
+timezone: Asia/Taipei
+url: "https://honorlin.github.io"
+baseurl: "/senior-health-life"
+permalink: /articles/:year/:month/:day/:title/
+markdown: kramdown
+future: false
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - automation
+  - scripts
+  - requirements.txt
+  - AGENTS.md
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: 樂齡好生活編輯室
