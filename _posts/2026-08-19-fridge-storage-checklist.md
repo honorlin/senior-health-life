@@ -1,0 +1,107 @@
+---
+layout: post
+title: "買菜前先看一眼：熟齡家庭的食材保存與冰箱分層清單"
+slug: fridge-storage-checklist
+description: "用簡單的冰箱分層、先進先出與採買清單，減少食材放到忘記，也讓家中備餐更安心。"
+category: nutrition
+category_name: "食｜每日好營養"
+tags: ["食品安全", "冰箱整理", "食材保存", "採買清單"]
+risk_level: blue
+image: "/assets/images/posts/2026-08-19-fridge-storage-checklist.webp"
+image_alt: "買菜前先看一眼：熟齡家庭的食材保存與冰箱分層清單自製插圖"
+image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+inline_images:
+  - file: "/assets/images/posts/2026-08-19-fridge-storage-checklist-1.webp"
+    alt: "買菜前先看一眼：熟齡家庭的食材保存與冰箱分層清單相關生活細節自製插圖"
+    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+  - file: "/assets/images/posts/2026-08-19-fridge-storage-checklist-2.webp"
+    alt: "買菜前先看一眼：熟齡家庭的食材保存與冰箱分層清單的日常實踐自製插圖"
+    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+photo_credits:
+  - file: "/assets/images/posts/2026-08-19-fridge-storage-checklist.webp"
+    creator: "台灣樂齡好生活編輯部"
+    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
+    license: "Self-owned editorial illustration"
+    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
+    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+  - file: "/assets/images/posts/2026-08-19-fridge-storage-checklist-1.webp"
+    creator: "台灣樂齡好生活編輯部"
+    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
+    license: "Self-owned editorial illustration"
+    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
+    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+  - file: "/assets/images/posts/2026-08-19-fridge-storage-checklist-2.webp"
+    creator: "台灣樂齡好生活編輯部"
+    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
+    license: "Self-owned editorial illustration"
+    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
+    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+sources:
+  - title: "食藥署｜食品安全衛生與營養相關主題入口"
+    url: "https://www.fda.gov.tw/TC/site.aspx?sid=40"
+    date: "unknown"
+  - title: "食藥署｜食品標示與食品安全消費資訊入口"
+    url: "https://www.fda.gov.tw/TC/siteList.aspx?sid=4061"
+    date: "unknown"
+  - title: "WHO｜Food safety"
+    url: "https://www.who.int/news-room/fact-sheets/detail/food-safety"
+    date: "unknown"
+---
+
+## 30秒看懂
+
+熟齡家庭常見的備餐困擾，不一定是買不夠，而是「冰箱裡有什麼不清楚」。出門買菜前先看一眼、回家後分層放好、每週固定清一次，就能減少食材過期與重複購買。
+
+本文只談一般食品安全與保存習慣，不提供疾病飲食或特定食物功效建議。
+
+## 實用內容
+
+<figure class="article-figure">
+  <img src="{{ '/assets/images/posts/2026-08-19-fridge-storage-checklist-1.webp' | relative_url }}" alt="買菜前先看一眼：熟齡家庭的食材保存與冰箱分層清單相關生活細節自製插圖" width="1200" height="800" loading="lazy">
+  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+</figure>
+
+
+### 1. 冰箱分層：熟食在上、生食在下
+
+<figure class="article-figure">
+  <img src="{{ '/assets/images/posts/2026-08-19-fridge-storage-checklist-2.webp' | relative_url }}" alt="買菜前先看一眼：熟齡家庭的食材保存與冰箱分層清單的日常實踐自製插圖" width="1200" height="800" loading="lazy">
+  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+</figure>
+
+
+熟食、即食食品可放上層；生肉、生魚等容易滴汁的食材放下層並密封，避免接觸其他食物。蔬果可放在適合的抽屜或保鮮盒中，保持乾淨與分區。
+
+### 2. 透明盒與日期標籤，比記憶更可靠
+
+剩菜、切好的水果、已開封食材，建議用透明容器保存，貼上「日期＋內容物」。字不用漂亮，只要看得懂。這對家中多人共用冰箱特別有幫助。
+
+### 3. 先進先出：新買的放後面
+
+同類食材新買回來，放在較後方；快到期或先買的放前方。每次開冰箱都能先看到該先使用的東西。
+
+### 4. 不把冰箱塞滿
+
+冰箱太滿，冷空氣不易流通，也容易忘記角落的食物。採買時可先想「兩三天內會煮什麼」，不要只因特價就大量囤放。
+
+### 5. 乾貨也要檢查
+
+米、麵、罐頭、沖泡飲品、調味料也可能放到過期。每月挑一天看保存期限與包裝狀況，已開封的乾貨要密封，放在陰涼乾燥處。
+
+## 今天可以怎麼做
+
+1. 打開冰箱拍一張照片，買菜前先看照片再列清單。
+2. 丟掉明顯變質、異味或來源不清的食物。
+3. 把生食移到下層並用盤子或盒子接住可能滴出的汁液。
+4. 準備一支奇異筆或貼紙，從今天開始標日期。
+5. 設定每週一次「冰箱10分鐘整理」。
+
+## 哪些情況要先詢問專業人員
+
+如果家中長輩近期有明顯食慾下降、吃下東西後不適、吞嚥困難，或因健康狀況需要特殊飲食安排，請詢問醫療專業人員或營養師。若懷疑食物中毒或身體出現急性不適，應儘速就醫或尋求適當協助。
+
+## 參考資料
+
+- [食藥署｜食品安全衛生與營養相關主題入口](https://www.fda.gov.tw/TC/site.aspx?sid=40)
+- [食藥署｜食品標示與食品安全消費資訊入口](https://www.fda.gov.tw/TC/siteList.aspx?sid=4061)
+- [WHO｜Food safety](https://www.who.int/news-room/fact-sheets/detail/food-safety)

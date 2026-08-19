@@ -1,0 +1,108 @@
+---
+layout: post
+title: "保健食品不是越多越好：購買前的 5 個理性問題"
+slug: five-rational-questions
+description: "買保健食品前先問需求、標示、來源、預算與專業提醒，避免因廣告焦慮而重複購買。"
+category: supplements
+category_name: "知｜保健品知識"
+tags: ["保健食品", "食品標示", "理性購買", "健康食品"]
+risk_level: blue
+image: "/assets/images/posts/2026-08-19-five-rational-questions.webp"
+image_alt: "保健食品不是越多越好：購買前的 5 個理性問題自製插圖"
+image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+inline_images:
+  - file: "/assets/images/posts/2026-08-19-five-rational-questions-1.webp"
+    alt: "保健食品不是越多越好：購買前的 5 個理性問題相關生活細節自製插圖"
+    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+  - file: "/assets/images/posts/2026-08-19-five-rational-questions-2.webp"
+    alt: "保健食品不是越多越好：購買前的 5 個理性問題的日常實踐自製插圖"
+    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+photo_credits:
+  - file: "/assets/images/posts/2026-08-19-five-rational-questions.webp"
+    creator: "台灣樂齡好生活編輯部"
+    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
+    license: "Self-owned editorial illustration"
+    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
+    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+  - file: "/assets/images/posts/2026-08-19-five-rational-questions-1.webp"
+    creator: "台灣樂齡好生活編輯部"
+    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
+    license: "Self-owned editorial illustration"
+    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
+    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+  - file: "/assets/images/posts/2026-08-19-five-rational-questions-2.webp"
+    creator: "台灣樂齡好生活編輯部"
+    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
+    license: "Self-owned editorial illustration"
+    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
+    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+sources:
+  - title: "食藥署健康食品管理與資料查詢入口"
+    url: "https://www.fda.gov.tw/TC/site.aspx?sid=1507"
+    date: "unknown"
+  - title: "食藥署食品標示與廣告相關入口"
+    url: "https://www.fda.gov.tw/TC/siteList.aspx?sid=4261"
+    date: "unknown"
+  - title: "食藥署健康食品資料查詢"
+    url: "https://consumer.fda.gov.tw/Food/InfoHealthFood.aspx?nodeID=162"
+    date: "unknown"
+---
+
+## 30秒看懂
+
+保健食品不是越多越好，也不是買越貴越安心。購買前先問 5 個問題：我為什麼想買？標示清楚嗎？來源查得到嗎？會不會和目前狀況衝突？預算能不能長期負擔？
+
+本文只談標示與理性選擇，不推薦產品、不比較功效，也不把食品或保健品說成可處理疾病。
+
+## 實用內容
+
+<figure class="article-figure">
+  <img src="{{ '/assets/images/posts/2026-08-19-five-rational-questions-1.webp' | relative_url }}" alt="保健食品不是越多越好：購買前的 5 個理性問題相關生活細節自製插圖" width="1200" height="800" loading="lazy">
+  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+</figure>
+
+
+### 問題 1：我是因為需要，還是因為被廣告說服？
+
+<figure class="article-figure">
+  <img src="{{ '/assets/images/posts/2026-08-19-five-rational-questions-2.webp' | relative_url }}" alt="保健食品不是越多越好：購買前的 5 個理性問題的日常實踐自製插圖" width="1200" height="800" loading="lazy">
+  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+</figure>
+
+
+看到「限時」、「熱銷」、「很多人都吃」很容易心動。先停下來問自己：我原本就有這個需求嗎？還是看完廣告才突然覺得非買不可？
+
+若答案是後者，可以先等 24 小時再決定。
+
+### 問題 2：包裝標示是否完整清楚？
+
+至少要看得到品名、成分、內容量、業者資訊、保存方式、食用方式與注意事項。若只看到漂亮圖片、口號或他人心得，資訊不足，就不適合急著購買。
+
+### 問題 3：來源與宣稱能不能查？
+
+若商品宣稱為健康食品，可透過食藥署相關查詢入口核對資料。也要注意廣告是否把一般營養補充講得像疾病處理方式。食品標示與廣告不應取代專業醫療建議。
+
+### 問題 4：我目前的身體狀況適合嗎？
+
+每個人的飲食、用藥、過敏史與健康狀況不同。即使是食品，也可能不適合所有人同時或長期使用。特別是多種產品一起吃時，更需要謹慎。
+
+### 問題 5：這筆預算會不會造成壓力？
+
+保健食品不應成為家庭財務壓力。若每月花費讓生活費、正餐、回診或必要藥費受影響，就應重新評估優先順序。
+
+## 今天可以怎麼做
+
+- 把想買的產品名稱、價格、成分與注意事項寫下來。
+- 先不要在直播、通訊軟體或陌生連結中立即下單。
+- 若家中已有多種保健食品，整理成清單，包含品牌、成分與食用頻率。
+- 下次看診或領藥時，帶著清單詢問醫師或藥師是否有需要注意的地方。
+
+## 哪些情況要先詢問專業人員
+
+正在服藥、懷孕或哺乳、準備手術、曾有過敏反應，或有慢性病、腎臟病、肝臟疾病等健康狀況者，購買或食用前請先詢問醫師、藥師或營養師。若吃了之後覺得不舒服，不要自行加量或混搭其他產品，應先停止並尋求專業協助。
+
+## 參考資料
+
+- [食藥署：健康食品管理與資料查詢入口](https://www.fda.gov.tw/TC/site.aspx?sid=1507)
+- [食藥署：食品標示與廣告相關入口](https://www.fda.gov.tw/TC/siteList.aspx?sid=4261)
+- [食藥署：健康食品資料查詢](https://consumer.fda.gov.tw/Food/InfoHealthFood.aspx?nodeID=162)

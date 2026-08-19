@@ -1,23 +1,71 @@
 ---
 layout: post
-title: "從一條順暢走道開始：熟齡居家防跌的5個小檢查"
+title: 從一條順暢走道開始：熟齡居家防跌的5個小檢查
 slug: start-with-a-safer-home
-description: "不用大幅改裝，先從照明、走道、地墊、浴室與常用物品的位置開始檢查。"
+description: 不用大幅改裝，先從照明、走道、地墊、浴室與常用物品的位置開始檢查。
 category: safety
-category_name: 安心好生活
-tags: [居家安全, 防跌, 熟齡生活]
+category_name: 住｜安心好居家
+tags:
+- 居家安全
+- 防跌
+- 熟齡生活
 risk_level: green
 sources:
-  - title: 國民健康署長者防跌資訊
-    url: https://www.hpa.gov.tw/
-  - title: World Health Organization Falls fact sheet
-    url: https://www.who.int/news-room/fact-sheets/detail/falls
+- title: 國民健康署長者防跌資訊
+  url: https://www.hpa.gov.tw/
+- title: World Health Organization Falls fact sheet
+  url: https://www.who.int/news-room/fact-sheets/detail/falls
+image: /assets/images/posts/2026-08-19-start-with-a-safer-home.webp
+image_alt: 熟齡居家防跌自製插圖
+image_caption: 台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。
+inline_images:
+- file: /assets/images/posts/2026-08-19-start-with-a-safer-home-1.webp
+  alt: 居家走道照明與收納自製插圖
+  caption: 台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。
+- file: /assets/images/posts/2026-08-19-start-with-a-safer-home-2.webp
+  alt: 熟齡居家防跌小檢查自製插圖
+  caption: 台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。
+photo_credits:
+- file: /assets/images/posts/2026-08-19-start-with-a-safer-home.webp
+  creator: 台灣樂齡好生活編輯部
+  source: self-owned://taiwan-senior-wellbeing/editorial-illustration
+  license: Self-owned editorial illustration
+  license_url: self-owned://taiwan-senior-wellbeing/editorial-illustration
+  modifications: 以品牌視覺製作為 WebP 自製插圖；非真實照片。
+- file: /assets/images/posts/2026-08-19-start-with-a-safer-home-1.webp
+  creator: 台灣樂齡好生活編輯部
+  source: self-owned://taiwan-senior-wellbeing/editorial-illustration
+  license: Self-owned editorial illustration
+  license_url: self-owned://taiwan-senior-wellbeing/editorial-illustration
+  modifications: 以品牌視覺製作為 WebP 自製插圖；非真實照片。
+- file: /assets/images/posts/2026-08-19-start-with-a-safer-home-2.webp
+  creator: 台灣樂齡好生活編輯部
+  source: self-owned://taiwan-senior-wellbeing/editorial-illustration
+  license: Self-owned editorial illustration
+  license_url: self-owned://taiwan-senior-wellbeing/editorial-illustration
+  modifications: 以品牌視覺製作為 WebP 自製插圖；非真實照片。
 ---
 ## 30秒看懂
 
 跌倒風險往往不是來自一件大事，而是走道上的雜物、光線不足、會滑動的地墊，或常用物品放得太高。今天先花10分鐘巡視家中，就能找出可以改善的小地方。
 
+## 實用內容
+
+<figure class="article-figure">
+  <img src="{{ '/assets/images/posts/2026-08-19-start-with-a-safer-home-1.webp' | relative_url }}" alt="居家走道照明與收納自製插圖" width="1200" height="800" loading="lazy">
+  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+</figure>
+
+
+以下從走道、照明、地墊、浴室與常用物品五個角度，整理家中今天就能開始的小檢查。
+
 ## 今天可以怎麼做
+
+<figure class="article-figure">
+  <img src="{{ '/assets/images/posts/2026-08-19-start-with-a-safer-home-2.webp' | relative_url }}" alt="熟齡居家防跌小檢查自製插圖" width="1200" height="800" loading="lazy">
+  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+</figure>
+
 
 ### 1. 讓走道保持完整寬度
 

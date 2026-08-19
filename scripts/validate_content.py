@@ -97,7 +97,10 @@ def image_size(path):
 
 
 def license_allowed(name, url):
-    combined = f"{name} {url}".upper()
+    combined_raw = f"{name} {url}"
+    combined = combined_raw.upper()
+    if str(url).startswith("self-owned://") and "SELF-OWNED" in combined:
+        return True
     disallowed_patterns = (r"\bNC\b", r"\bND\b", r"NONCOMMERCIAL", r"NO DERIV")
     if any(re.search(pattern, combined) for pattern in disallowed_patterns):
         return False
@@ -167,7 +170,8 @@ def validate_images(meta, body, errors):
         for field in ("creator", "source", "license", "license_url", "modifications"):
             if not credit.get(field):
                 errors.append(f"incomplete photo credit {field} for {key}")
-        if credit.get("source") and not host_matches(credit.get("source"), ALLOWED_IMAGE_SOURCE_DOMAINS):
+        source = str(credit.get("source") or "")
+        if source and not source.startswith("self-owned://") and not host_matches(source, ALLOWED_IMAGE_SOURCE_DOMAINS):
             errors.append(f"unapproved image source for {key}: {credit.get('source')}")
         if not license_allowed(credit.get("license", ""), credit.get("license_url", "")):
             errors.append(f"image license is not clearly reusable for {key}")

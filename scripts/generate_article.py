@@ -57,13 +57,19 @@ def commons_query(search):
         "generator": "search",
         "gsrnamespace": 6,
         "gsrsearch": search,
-        "gsrlimit": 12,
+        "gsrlimit": 8,
         "prop": "imageinfo",
         "iiprop": "url|mime|size|extmetadata",
         "origin": "*",
     }
-    r = requests.get(COMMONS_API, params=params, timeout=25, headers={"User-Agent": "senior-health-life-bot/1.0"})
-    r.raise_for_status()
+    try:
+        r = requests.get(COMMONS_API, params=params, timeout=25, headers={"User-Agent": "senior-health-life-bot/1.0 (https://honorlin.github.io/senior-health-life/)"})
+        if r.status_code == 429:
+            time.sleep(8)
+            return []
+        r.raise_for_status()
+    except requests.RequestException:
+        return []
     pages = (r.json().get("query") or {}).get("pages") or {}
     return list(pages.values())
 
@@ -129,7 +135,7 @@ def build_image_queries(data, category):
     for item in (data.get("cover_image"), *(data.get("inline_images") or [])):
         if isinstance(item, dict):
             raw.extend([item.get("search_query"), item.get("alt"), item.get("caption")])
-    raw.extend([data.get("title"), category, "Taiwan seniors lifestyle"])
+    raw.extend([data.get("title"), category])
     queries = []
     for q in raw:
         q = str(q or "").strip()
