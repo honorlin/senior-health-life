@@ -36,8 +36,8 @@ description: 身心健康・自在生活・笑容常在
 </section>
 <section id="topics" class="topics-section">
   <div class="wrap">
-    <div class="section-head"><div><p class="eyebrow"><span></span>依生活需要探索</p><h2 class="section-title">六個熟齡生活主題</h2></div><p>從飲食、活動到睡眠與家庭陪伴，選擇現在最關心的內容。</p></div>
-    <div class="grid topic-grid">{% for item in site.data.site.categories %}<article class="card topic-card"><span class="topic-number">0{{ forloop.index }}</span><div><h3>{{ item.name }}</h3><p>{{ item.description }}</p><a href="{{ '/articles/' | relative_url }}#{{ item.key }}">查看相關內容 <span>→</span></a></div></article>{% endfor %}</div>
+    <div class="section-head"><div><p class="eyebrow"><span></span>依生活需要探索</p><h2 class="section-title">十二個熟齡生活主題</h2></div><p>從食衣住行、學習休閒到身心健康與數位安全，選擇現在最需要的生活內容。</p></div>
+    <div class="grid topic-grid">{% for item in site.data.site.categories %}<article class="card topic-card"><span class="topic-number">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span><div><h3>{{ item.name }}</h3><p>{{ item.description }}</p><a href="{{ '/articles/' | relative_url }}#{{ item.key }}">查看相關內容 <span>→</span></a></div></article>{% endfor %}</div>
   </div>
 </section>
 <section id="latest" class="latest-section">

@@ -4,11 +4,15 @@ auto_publish:
   minimum_sources: 2
   require_approved_domain: true
   maximum_posts_per_day: 1
+editorial_scope:
+  required_dimensions: [食, 衣, 住, 行, 育, 樂, 活動, 睡眠, 心情, 陪伴, 保健知識, 數位安全]
+  balance_window_days: 30
+  selection_rule: 優先選擇最近30天文章數較少的安全分類，避免連續重複同一分類
 risk_levels:
   green:
-    examples: [居家安全, 一般生活習慣, 睡眠環境, 陪伴溝通]
+    examples: [舒適穿著, 居家安全, 交通準備, 終身學習, 休閒興趣, 睡眠環境, 心情照顧, 陪伴溝通, 數位防詐]
   blue:
-    examples: [一般營養知識, 食品標示閱讀, 低強度日常活動]
+    examples: [一般營養知識, 食品標示閱讀, 低強度日常活動, 保健品標示知識]
   yellow:
     auto_publish: false
     examples: [慢性病, 藥物交互作用, 腎臟病飲食, 個別營養量]

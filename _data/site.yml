@@ -16,6 +16,9 @@ tone:
   - 不責備
   - 不誇大
   - 使用繁體中文與台灣用語
+editorial_scope:
+  principle: 涵蓋台灣樂齡生活的食、衣、住、行、育、樂與身心健康
+  rotation: 優先補足最近30天文章較少的分類，維持主題均衡
 design:
   palette: 溫暖陽光黃
   primary: "#8a5a00"
@@ -28,20 +31,38 @@ design:
   line_height: 1.8
 categories:
   - key: nutrition
-    name: 每日好營養
-    description: 一般飲食、營養素與食品標示
-  - key: movement
-    name: 熟齡好活動
-    description: 散步、伸展、平衡與日常活動
-  - key: sleep
-    name: 一夜好睡眠
-    description: 睡眠環境與生活節奏
+    name: 食｜每日好營養
+    description: 家常飲食、營養觀念、採買保存與食品標示
+  - key: clothing
+    name: 衣｜自在好穿著
+    description: 舒適穿搭、鞋襪選擇、季節衣著與整理收納
   - key: safety
-    name: 安心好生活
-    description: 居家防跌、外出與生活安全
-  - key: supplements
-    name: 保健品知識
-    description: 成分與標示閱讀，不做療效宣稱
+    name: 住｜安心好居家
+    description: 居家防跌、照明動線、收納與生活安全
+  - key: mobility
+    name: 行｜安心好出行
+    description: 大眾運輸、步行安全、駕駛準備與無障礙資訊
+  - key: learning
+    name: 育｜終身好學習
+    description: 閱讀、課程、興趣培養、記憶練習與新知探索
+  - key: leisure
+    name: 樂｜樂活好時光
+    description: 旅行、園藝、藝文、社區活動與退休生活樂趣
+  - key: movement
+    name: 動｜熟齡好活動
+    description: 散步、伸展、平衡與低強度日常活動
+  - key: sleep
+    name: 眠｜一夜好睡眠
+    description: 睡眠環境、作息安排與放鬆生活節奏
+  - key: wellbeing
+    name: 心｜天天好心情
+    description: 情緒照顧、生活重心、孤單感與心理幸福感
   - key: family
-    name: 關心父母
-    description: 陪伴、溝通與照顧者實用指南
+    name: 伴｜家人好陪伴
+    description: 親子溝通、伴侶相處、朋友連結與照顧者指南
+  - key: supplements
+    name: 知｜保健品知識
+    description: 成分與標示閱讀、理性選擇，不做療效宣稱
+  - key: digital
+    name: 安｜數位好安心
+    description: 手機應用、網路防詐、個資保護與數位生活
