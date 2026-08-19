@@ -1,48 +1,55 @@
 ---
 layout: post
-title: "LINE 收到投資、包裹、普發金連結？熟齡族的 5 秒防詐停看聽"
+title: LINE 收到投資、包裹、普發金連結？熟齡族的 5 秒防詐停看聽
 slug: phishing-stop-check
-description: "收到投資、包裹、補助或帳號異常連結時，先停 5 秒，看來源、聽警訊，不急著點、不急著轉帳。"
+description: 收到投資、包裹、補助或帳號異常連結時，先停 5 秒，看來源、聽警訊，不急著點、不急著轉帳。
 category: digital
-category_name: "安｜數位好安心"
-tags: ["防詐騙", "LINE安全", "個資保護", "熟齡數位"]
+category_name: 安｜數位好安心
+tags:
+- 防詐騙
+- LINE安全
+- 個資保護
+- 熟齡數位
 risk_level: green
-image: "/assets/images/posts/2026-08-19-phishing-stop-check.webp"
-image_alt: "LINE 收到投資、包裹、普發金連結？熟齡族的 5 秒防詐停看聽自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-phishing-stop-check.webp
+image_alt: 電子郵件收件匣中的釣魚訊息截圖
+image_caption: 釣魚郵件截圖示意，提醒收到陌生連結時先停一下再判斷。攝影／作者：Kevin Scannell；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-phishing-stop-check-1.webp"
-    alt: "LINE 收到投資、包裹、普發金連結？熟齡族的 5 秒防詐停看聽相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-phishing-stop-check-2.webp"
-    alt: "LINE 收到投資、包裹、普發金連結？熟齡族的 5 秒防詐停看聽的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-phishing-stop-check-1.webp
+  alt: 瀏覽器顯示釣魚網站警示畫面
+  caption: 瀏覽器釣魚網站警示畫面，提醒可疑連結可能導向偽冒頁面。攝影／作者：HedwigQuan；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
+- file: /assets/images/posts/2026-08-19-phishing-stop-check-2.webp
+  alt: 智慧型手機鎖定畫面近照
+  caption: 智慧型手機鎖定畫面示意，提醒陌生連結與簡訊不必急著點開。攝影／作者：Acabashi；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-phishing-stop-check.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-phishing-stop-check-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-phishing-stop-check-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-phishing-stop-check.webp
+  creator: Kevin Scannell
+  source: https://commons.wikimedia.org/wiki/File:R%C3%ADomhphost_fioscaireachta_as_Gaeilge.png
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded from Wikimedia Commons; center-cropped, resized to 1200x630, and converted to WebP quality 88.
+    No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-phishing-stop-check-1.webp
+  creator: HedwigQuan
+  source: https://commons.wikimedia.org/wiki/File:Edge-deals-with-phishing-website.png
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality 88.
+    No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-phishing-stop-check-2.webp
+  creator: Acabashi
+  source: https://commons.wikimedia.org/wiki/File:Blackview_A60_Smartphone_Android_mobile_phone_front_face_lock_screen.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality 88.
+    No objects or people were added or removed.
 sources:
-  - title: "內政部警政署165全民防騙網"
-    url: "https://165.npa.gov.tw/"
-    date: "unknown"
-  - title: "內政部警政署刑事警察局"
-    url: "https://cib.npa.gov.tw/"
-    date: "unknown"
+- title: 內政部警政署165全民防騙網
+  url: https://165.npa.gov.tw/
+  date: unknown
+- title: 內政部警政署刑事警察局
+  url: https://cib.npa.gov.tw/
+  date: unknown
 ---
 ## 30秒看懂
 
@@ -53,8 +60,8 @@ LINE、簡訊或社群訊息裡的投資、包裹、補助、普發金連結，�
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-phishing-stop-check-1.webp' | relative_url }}" alt="LINE 收到投資、包裹、普發金連結？熟齡族的 5 秒防詐停看聽相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-phishing-stop-check-1.webp' | relative_url }}" alt="智慧型手機鎖定畫面近照" width="1200" height="800" loading="lazy">
+  <figcaption>智慧型手機鎖定畫面示意，提醒陌生連結與簡訊不必急著點開。攝影／作者：Acabashi；來源：Wikimedia Commons；授權：CC BY-SA 4.0。</figcaption>
 </figure>
 
 ### 1. 先停五秒：急，就是警訊

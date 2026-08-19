@@ -1,51 +1,54 @@
 ---
 layout: post
-title: "在家也能有樂趣：陽台園藝、泡茶與音樂的慢生活清單"
+title: 在家也能有樂趣：陽台園藝、泡茶與音樂的慢生活清單
 slug: home-slow-life-hobbies
-description: "不出遠門也能安排小樂趣。用陽台植物、一壺茶、一首歌，替日常留下舒服的慢生活時段。"
+description: 不出遠門也能安排小樂趣。用陽台植物、一壺茶、一首歌，替日常留下舒服的慢生活時段。
 category: leisure
-category_name: "樂｜樂活好時光"
-tags: ["居家休閒", "慢生活", "樂齡生活"]
+category_name: 樂｜樂活好時光
+tags:
+- 居家休閒
+- 慢生活
+- 樂齡生活
 risk_level: green
-image: "/assets/images/posts/2026-08-19-home-slow-life-hobbies.webp"
-image_alt: "在家也能有樂趣：陽台園藝、泡茶與音樂的慢生活清單自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-home-slow-life-hobbies.webp
+image_alt: 桌面上的筆記本、筆與眼鏡
+image_caption: 在家安排興趣與小計畫。照片：Shixart1985／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-home-slow-life-hobbies-1.webp"
-    alt: "在家也能有樂趣：陽台園藝、泡茶與音樂的慢生活清單相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-home-slow-life-hobbies-2.webp"
-    alt: "在家也能有樂趣：陽台園藝、泡茶與音樂的慢生活清單的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-home-slow-life-hobbies-1.webp
+  alt: 桌面上一杯溫熱茶飲
+  caption: 在家休閒時的溫茶陪伴。照片：Fitrah 9131／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
+- file: /assets/images/posts/2026-08-19-home-slow-life-hobbies-2.webp
+  alt: 森林步道旁可休息的長椅
+  caption: 出門散步放鬆時可休息的長椅。照片：H. Zell／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-home-slow-life-hobbies.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-home-slow-life-hobbies-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-home-slow-life-hobbies-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-home-slow-life-hobbies.webp
+  creator: Shixart1985
+  source: https://commons.wikimedia.org/wiki/File:Desk_with_notebook_pens_and_glasses.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×630、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-home-slow-life-hobbies-1.webp
+  creator: Fitrah 9131
+  source: https://commons.wikimedia.org/wiki/File:A_cup_of_warm_tea.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-home-slow-life-hobbies-2.webp
+  creator: H. Zell
+  source: https://commons.wikimedia.org/wiki/File:Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
 sources:
-  - title: "國民健康署長者健康促進入口"
-    url: "https://www.hpa.gov.tw/Pages/List.aspx?nodeid=40"
-    date: "unknown"
-  - title: "WHO Healthy ageing and functional ability"
-    url: "https://www.who.int/news-room/questions-and-answers/item/healthy-ageing-and-functional-ability"
-    date: "unknown"
-  - title: "Harvard Health Publishing"
-    url: "https://www.health.harvard.edu/"
-    date: "unknown"
+- title: 國民健康署長者健康促進入口
+  url: https://www.hpa.gov.tw/Pages/List.aspx?nodeid=40
+  date: unknown
+- title: WHO Healthy ageing and functional ability
+  url: https://www.who.int/news-room/questions-and-answers/item/healthy-ageing-and-functional-ability
+  date: unknown
+- title: Harvard Health Publishing
+  url: https://www.health.harvard.edu/
+  date: unknown
 ---
 
 ## 30秒看懂
@@ -57,16 +60,16 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-home-slow-life-hobbies-1.webp' | relative_url }}" alt="在家也能有樂趣：陽台園藝、泡茶與音樂的慢生活清單相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-home-slow-life-hobbies-1.webp' | relative_url }}" alt="桌面上一杯溫熱茶飲" width="1200" height="800" loading="lazy">
+  <figcaption>在家休閒時的溫茶陪伴。照片：Fitrah 9131／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 
 ### 陽台園藝：從一盆好照顧的植物開始
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-home-slow-life-hobbies-2.webp' | relative_url }}" alt="在家也能有樂趣：陽台園藝、泡茶與音樂的慢生活清單的日常實踐自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-home-slow-life-hobbies-2.webp' | relative_url }}" alt="森林步道旁可休息的長椅" width="1200" height="800" loading="lazy">
+  <figcaption>出門散步放鬆時可休息的長椅。照片：H. Zell／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 

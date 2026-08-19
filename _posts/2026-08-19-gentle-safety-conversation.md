@@ -1,51 +1,55 @@
 ---
 layout: post
-title: "和爸媽談安全，不用一句話就變成命令：3 個溫柔開場"
+title: 和爸媽談安全，不用一句話就變成命令：3 個溫柔開場
 slug: gentle-safety-conversation
-description: "想提醒爸媽注意安全，先少一點命令、多一點一起試試看，讓關心比較容易被聽見。"
+description: 想提醒爸媽注意安全，先少一點命令、多一點一起試試看，讓關心比較容易被聽見。
 category: family
-category_name: "伴｜家人好陪伴"
-tags: ["家庭溝通", "陪伴", "熟齡安全", "照顧者"]
+category_name: 伴｜家人好陪伴
+tags:
+- 家庭溝通
+- 陪伴
+- 熟齡安全
+- 照顧者
 risk_level: green
-image: "/assets/images/posts/2026-08-19-gentle-safety-conversation.webp"
-image_alt: "和爸媽談安全，不用一句話就變成命令：3 個溫柔開場自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-gentle-safety-conversation.webp
+image_alt: 家中餐桌與餐椅空間
+image_caption: 適合家人坐下談話的餐桌情境。照片：Cheikh cherif／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-gentle-safety-conversation-1.webp"
-    alt: "和爸媽談安全，不用一句話就變成命令：3 個溫柔開場相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-gentle-safety-conversation-2.webp"
-    alt: "和爸媽談安全，不用一句話就變成命令：3 個溫柔開場的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-gentle-safety-conversation-1.webp
+  alt: 桌面上一杯溫熱茶飲
+  caption: 以輕鬆喝茶開啟談話。照片：Fitrah 9131／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
+- file: /assets/images/posts/2026-08-19-gentle-safety-conversation-2.webp
+  alt: 桌面上的筆記本、筆與眼鏡
+  caption: 把安全提醒先寫成溫和重點。照片：Shixart1985／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-gentle-safety-conversation.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-gentle-safety-conversation-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-gentle-safety-conversation-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-gentle-safety-conversation.webp
+  creator: Cheikh cherif
+  source: https://commons.wikimedia.org/wiki/File:Table_%C3%A0_manger.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×630、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-gentle-safety-conversation-1.webp
+  creator: Fitrah 9131
+  source: https://commons.wikimedia.org/wiki/File:A_cup_of_warm_tea.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-gentle-safety-conversation-2.webp
+  creator: Shixart1985
+  source: https://commons.wikimedia.org/wiki/File:Desk_with_notebook_pens_and_glasses.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
 sources:
-  - title: "衛福部長照專區"
-    url: "https://1966.gov.tw/LTC/mp-201.html"
-    date: "unknown"
-  - title: "國民健康署長者健康促進入口"
-    url: "https://www.hpa.gov.tw/Pages/List.aspx?nodeid=40"
-    date: "unknown"
-  - title: "WHO healthy ageing and functional ability Q&A"
-    url: "https://www.who.int/news-room/questions-and-answers/item/healthy-ageing-and-functional-ability"
-    date: "unknown"
+- title: 衛福部長照專區
+  url: https://1966.gov.tw/LTC/mp-201.html
+  date: unknown
+- title: 國民健康署長者健康促進入口
+  url: https://www.hpa.gov.tw/Pages/List.aspx?nodeid=40
+  date: unknown
+- title: WHO healthy ageing and functional ability Q&A
+  url: https://www.who.int/news-room/questions-and-answers/item/healthy-ageing-and-functional-ability
+  date: unknown
 ---
 ## 30秒看懂
 
@@ -56,8 +60,8 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-gentle-safety-conversation-1.webp' | relative_url }}" alt="和爸媽談安全，不用一句話就變成命令：3 個溫柔開場相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-gentle-safety-conversation-1.webp' | relative_url }}" alt="桌面上一杯溫熱茶飲" width="1200" height="800" loading="lazy">
+  <figcaption>以輕鬆喝茶開啟談話。照片：Fitrah 9131／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 ### 1. 先說觀察，不先下結論
@@ -69,8 +73,8 @@ sources:
 ### 2. 用請教取代命令
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-gentle-safety-conversation-2.webp' | relative_url }}" alt="和爸媽談安全，不用一句話就變成命令：3 個溫柔開場的日常實踐自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-gentle-safety-conversation-2.webp' | relative_url }}" alt="桌面上的筆記本、筆與眼鏡" width="1200" height="800" loading="lazy">
+  <figcaption>把安全提醒先寫成溫和重點。照片：Shixart1985／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 熟齡長輩有自己的生活經驗，若家人一開口就安排好全部，很容易讓人覺得被當成小孩。可以改問：「你覺得這個位置順手嗎？如果換到旁邊會不會比較好拿？」或「我們試一週看看，如果不方便再改回來，好不好？」

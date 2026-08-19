@@ -1,51 +1,58 @@
 ---
 layout: post
-title: "買菜前先看一眼：熟齡家庭的食材保存與冰箱分層清單"
+title: 買菜前先看一眼：熟齡家庭的食材保存與冰箱分層清單
 slug: fridge-storage-checklist
-description: "用簡單的冰箱分層、先進先出與採買清單，減少食材放到忘記，也讓家中備餐更安心。"
+description: 用簡單的冰箱分層、先進先出與採買清單，減少食材放到忘記，也讓家中備餐更安心。
 category: nutrition
-category_name: "食｜每日好營養"
-tags: ["食品安全", "冰箱整理", "食材保存", "採買清單"]
+category_name: 食｜每日好營養
+tags:
+- 食品安全
+- 冰箱整理
+- 食材保存
+- 採買清單
 risk_level: blue
-image: "/assets/images/posts/2026-08-19-fridge-storage-checklist.webp"
-image_alt: "買菜前先看一眼：熟齡家庭的食材保存與冰箱分層清單自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-fridge-storage-checklist.webp
+image_alt: 冰箱中整齊擺放蔬菜與水果
+image_caption: 冰箱中蔬果分層收納的一般情境。攝影／作者：Alabama Extension；來源：Wikimedia Commons；授權：CC0。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-fridge-storage-checklist-1.webp"
-    alt: "買菜前先看一眼：熟齡家庭的食材保存與冰箱分層清單相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-fridge-storage-checklist-2.webp"
-    alt: "買菜前先看一眼：熟齡家庭的食材保存與冰箱分層清單的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-fridge-storage-checklist-1.webp
+  alt: 冰箱抽屜中擺放多種蔬菜
+  caption: 冰箱蔬果抽屜收納示意，適合提醒買菜前先看庫存。攝影／作者：Alabama Extension；來源：Wikimedia Commons；授權：CC0。
+- file: /assets/images/posts/2026-08-19-fridge-storage-checklist-2.webp
+  alt: 冰箱層架上的水果與蔬菜
+  caption: 冰箱層架上的蔬果保存示意，可搭配先進先出的整理習慣。攝影／作者：Alabama Extension；來源：Wikimedia Commons；授權：CC0。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-fridge-storage-checklist.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-fridge-storage-checklist-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-fridge-storage-checklist-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-fridge-storage-checklist.webp
+  creator: Alabama Extension
+  source: https://commons.wikimedia.org/wiki/File:Fruits_and_Vegetables_in_Refrigerator.jpg
+  license: CC0
+  license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x630, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-fridge-storage-checklist-1.webp
+  creator: Alabama Extension
+  source: https://commons.wikimedia.org/wiki/File:Vegetables_in_Refrigerator_Bin.jpg
+  license: CC0
+  license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-fridge-storage-checklist-2.webp
+  creator: Alabama Extension
+  source: https://commons.wikimedia.org/wiki/File:Fruits_and_Vegetables_in_Refrigerator_-_50838357101.jpg
+  license: CC0
+  license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
 sources:
-  - title: "食藥署｜食品安全衛生與營養相關主題入口"
-    url: "https://www.fda.gov.tw/TC/site.aspx?sid=40"
-    date: "unknown"
-  - title: "食藥署｜食品標示與食品安全消費資訊入口"
-    url: "https://www.fda.gov.tw/TC/siteList.aspx?sid=4061"
-    date: "unknown"
-  - title: "WHO｜Food safety"
-    url: "https://www.who.int/news-room/fact-sheets/detail/food-safety"
-    date: "unknown"
+- title: 食藥署｜食品安全衛生與營養相關主題入口
+  url: https://www.fda.gov.tw/TC/site.aspx?sid=40
+  date: unknown
+- title: 食藥署｜食品標示與食品安全消費資訊入口
+  url: https://www.fda.gov.tw/TC/siteList.aspx?sid=4061
+  date: unknown
+- title: WHO｜Food safety
+  url: https://www.who.int/news-room/fact-sheets/detail/food-safety
+  date: unknown
 ---
 
 ## 30秒看懂
@@ -57,8 +64,8 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-fridge-storage-checklist-1.webp' | relative_url }}" alt="買菜前先看一眼：熟齡家庭的食材保存與冰箱分層清單相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-fridge-storage-checklist-1.webp' | relative_url }}" alt="冰箱層架上的水果與蔬菜" width="1200" height="800" loading="lazy">
+  <figcaption>冰箱層架上的蔬果保存示意，可搭配先進先出的整理習慣。攝影／作者：Alabama Extension；來源：Wikimedia Commons；授權：CC0。</figcaption>
 </figure>
 
 

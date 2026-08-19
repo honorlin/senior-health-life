@@ -1,51 +1,54 @@
 ---
 layout: post
-title: "坐著也能動一動：看電視中場的肩頸與腳踝舒展"
+title: 坐著也能動一動：看電視中場的肩頸與腳踝舒展
 slug: seated-tv-break-stretches
-description: "看電視中場休息時，不妨用坐姿做幾個溫和肩頸與腳踝活動。重點是舒服、不勉強、可停止。"
+description: 看電視中場休息時，不妨用坐姿做幾個溫和肩頸與腳踝活動。重點是舒服、不勉強、可停止。
 category: movement
-category_name: "動｜熟齡好活動"
-tags: ["坐姿活動", "伸展", "熟齡活動"]
+category_name: 動｜熟齡好活動
+tags:
+- 坐姿活動
+- 伸展
+- 熟齡活動
 risk_level: blue
-image: "/assets/images/posts/2026-08-19-seated-tv-break-stretches.webp"
-image_alt: "坐著也能動一動：看電視中場的肩頸與腳踝舒展自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-seated-tv-break-stretches.webp
+image_alt: 公園中平緩的步道
+image_caption: 可用於暖身散步的公園步道。照片：John Phelan／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-seated-tv-break-stretches-1.webp"
-    alt: "坐著也能動一動：看電視中場的肩頸與腳踝舒展相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-seated-tv-break-stretches-2.webp"
-    alt: "坐著也能動一動：看電視中場的肩頸與腳踝舒展的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-seated-tv-break-stretches-1.webp
+  alt: 森林步道旁可休息的長椅
+  caption: 活動中途可停下休息的長椅。照片：H. Zell／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
+- file: /assets/images/posts/2026-08-19-seated-tv-break-stretches-2.webp
+  alt: 桌面上一杯溫熱茶飲
+  caption: 活動後坐下休息喝飲品的一般情境。照片：Fitrah 9131／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-seated-tv-break-stretches.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-seated-tv-break-stretches-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-seated-tv-break-stretches-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-seated-tv-break-stretches.webp
+  creator: John Phelan
+  source: https://commons.wikimedia.org/wiki/File:Walking_path_at_Newtown_Park,_Newtown_GA.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×630、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-seated-tv-break-stretches-1.webp
+  creator: H. Zell
+  source: https://commons.wikimedia.org/wiki/File:Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-seated-tv-break-stretches-2.webp
+  creator: Fitrah 9131
+  source: https://commons.wikimedia.org/wiki/File:A_cup_of_warm_tea.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
 sources:
-  - title: "國民健康署全民身體活動指引說明"
-    url: "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=571&pid=8277"
-    date: "unknown"
-  - title: "WHO Physical activity"
-    url: "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
-    date: "unknown"
-  - title: "NHS Exercise guidelines for older adults"
-    url: "https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-older-adults/"
-    date: "unknown"
+- title: 國民健康署全民身體活動指引說明
+  url: https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=571&pid=8277
+  date: unknown
+- title: WHO Physical activity
+  url: https://www.who.int/news-room/fact-sheets/detail/physical-activity
+  date: unknown
+- title: NHS Exercise guidelines for older adults
+  url: https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-older-adults/
+  date: unknown
 ---
 
 ## 30秒看懂
@@ -57,16 +60,16 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-seated-tv-break-stretches-1.webp' | relative_url }}" alt="坐著也能動一動：看電視中場的肩頸與腳踝舒展相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-seated-tv-break-stretches-1.webp' | relative_url }}" alt="森林步道旁可休息的長椅" width="1200" height="800" loading="lazy">
+  <figcaption>活動中途可停下休息的長椅。照片：H. Zell／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 
 ### 先確認椅子與姿勢
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-seated-tv-break-stretches-2.webp' | relative_url }}" alt="坐著也能動一動：看電視中場的肩頸與腳踝舒展的日常實踐自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-seated-tv-break-stretches-2.webp' | relative_url }}" alt="桌面上一杯溫熱茶飲" width="1200" height="800" loading="lazy">
+  <figcaption>活動後坐下休息喝飲品的一般情境。照片：Fitrah 9131／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 

@@ -16,34 +16,37 @@ sources:
 - title: World Health Organization Falls fact sheet
   url: https://www.who.int/news-room/fact-sheets/detail/falls
 image: /assets/images/posts/2026-08-19-start-with-a-safer-home.webp
-image_alt: 熟齡居家防跌自製插圖
-image_caption: 台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。
+image_alt: 浴室牆面上的安全扶手
+image_caption: 浴室安全扶手示意，提醒需要時可在容易起身的位置加裝穩固扶手。攝影／作者：Gramody；來源：Wikimedia Commons；授權：CC BY-SA 2.0。
 inline_images:
 - file: /assets/images/posts/2026-08-19-start-with-a-safer-home-1.webp
-  alt: 居家走道照明與收納自製插圖
-  caption: 台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。
+  alt: 廁所旁可下拉的扶手設備
+  caption: 廁所旁扶手設備示意，提醒浴廁起身與轉身位置要特別留意。攝影／作者：Kai Kemmann；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
 - file: /assets/images/posts/2026-08-19-start-with-a-safer-home-2.webp
-  alt: 熟齡居家防跌小檢查自製插圖
-  caption: 台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。
+  alt: 浴缸旁可支撐起身的扶手
+  caption: 浴缸旁扶手示意，提醒濕滑空間可優先檢查支撐點與動線。攝影／作者：Kai Kemmann；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
 photo_credits:
 - file: /assets/images/posts/2026-08-19-start-with-a-safer-home.webp
-  creator: 台灣樂齡好生活編輯部
-  source: self-owned://taiwan-senior-wellbeing/editorial-illustration
-  license: Self-owned editorial illustration
-  license_url: self-owned://taiwan-senior-wellbeing/editorial-illustration
-  modifications: 以品牌視覺製作為 WebP 自製插圖；非真實照片。
+  creator: Gramody
+  source: https://commons.wikimedia.org/wiki/File:Grab_bar.jpg
+  license: CC BY-SA 2.0
+  license_url: https://creativecommons.org/licenses/by-sa/2.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x630, and converted to WebP quality
+    86. No objects or people were added or removed.
 - file: /assets/images/posts/2026-08-19-start-with-a-safer-home-1.webp
-  creator: 台灣樂齡好生活編輯部
-  source: self-owned://taiwan-senior-wellbeing/editorial-illustration
-  license: Self-owned editorial illustration
-  license_url: self-owned://taiwan-senior-wellbeing/editorial-illustration
-  modifications: 以品牌視覺製作為 WebP 自製插圖；非真實照片。
+  creator: Kai Kemmann
+  source: https://commons.wikimedia.org/wiki/File:Herunterschwenkbarer_Griffb%C3%BCgel_an_WC_(Chromblende_und_2_Schrauben_wurden_entfernt),_Gundelfingen,_Deutschland.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
 - file: /assets/images/posts/2026-08-19-start-with-a-safer-home-2.webp
-  creator: 台灣樂齡好生活編輯部
-  source: self-owned://taiwan-senior-wellbeing/editorial-illustration
-  license: Self-owned editorial illustration
-  license_url: self-owned://taiwan-senior-wellbeing/editorial-illustration
-  modifications: 以品牌視覺製作為 WebP 自製插圖；非真實照片。
+  creator: Kai Kemmann
+  source: https://commons.wikimedia.org/wiki/File:Herunterschwenkbarer_Griffb%C3%BCgel_an_Badewanne_(Chromblende_wurde_abgenommen),_Gundelfingen,_Deutschland.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
 ---
 ## 30秒看懂
 
@@ -52,8 +55,8 @@ photo_credits:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-start-with-a-safer-home-1.webp' | relative_url }}" alt="居家走道照明與收納自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-start-with-a-safer-home-1.webp' | relative_url }}" alt="浴缸旁可支撐起身的扶手" width="1200" height="800" loading="lazy">
+  <figcaption>浴缸旁扶手示意，提醒濕滑空間可優先檢查支撐點與動線。攝影／作者：Kai Kemmann；來源：Wikimedia Commons；授權：CC BY-SA 4.0。</figcaption>
 </figure>
 
 

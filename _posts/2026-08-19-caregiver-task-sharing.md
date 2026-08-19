@@ -1,51 +1,55 @@
 ---
 layout: post
-title: "照顧者也需要喘口氣：家庭分工表怎麼排比較不傷感情"
+title: 照顧者也需要喘口氣：家庭分工表怎麼排比較不傷感情
 slug: caregiver-task-sharing
-description: "照顧家人不是一個人的長跑，用清楚分工、可替換備案與定期討論，讓家庭比較不容易累積委屈。"
+description: 照顧家人不是一個人的長跑，用清楚分工、可替換備案與定期討論，讓家庭比較不容易累積委屈。
 category: family
-category_name: "伴｜家人好陪伴"
-tags: ["照顧者", "家庭分工", "長照資源", "家人陪伴"]
+category_name: 伴｜家人好陪伴
+tags:
+- 照顧者
+- 家庭分工
+- 長照資源
+- 家人陪伴
 risk_level: green
-image: "/assets/images/posts/2026-08-19-caregiver-task-sharing.webp"
-image_alt: "照顧者也需要喘口氣：家庭分工表怎麼排比較不傷感情自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-caregiver-task-sharing.webp
+image_alt: 家中餐桌與餐椅空間
+image_caption: 家人分工討論可從餐桌開始。照片：Cheikh cherif／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-caregiver-task-sharing-1.webp"
-    alt: "照顧者也需要喘口氣：家庭分工表怎麼排比較不傷感情相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-caregiver-task-sharing-2.webp"
-    alt: "照顧者也需要喘口氣：家庭分工表怎麼排比較不傷感情的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-caregiver-task-sharing-1.webp
+  alt: 桌面上一杯溫熱茶飲
+  caption: 照顧討論前可先放慢語氣。照片：Fitrah 9131／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
+- file: /assets/images/posts/2026-08-19-caregiver-task-sharing-2.webp
+  alt: 桌面上的筆記本、筆與眼鏡
+  caption: 用筆記整理照顧分工。照片：Shixart1985／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-caregiver-task-sharing.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-caregiver-task-sharing-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-caregiver-task-sharing-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-caregiver-task-sharing.webp
+  creator: Cheikh cherif
+  source: https://commons.wikimedia.org/wiki/File:Table_%C3%A0_manger.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×630、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-caregiver-task-sharing-1.webp
+  creator: Fitrah 9131
+  source: https://commons.wikimedia.org/wiki/File:A_cup_of_warm_tea.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-caregiver-task-sharing-2.webp
+  creator: Shixart1985
+  source: https://commons.wikimedia.org/wiki/File:Desk_with_notebook_pens_and_glasses.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
 sources:
-  - title: "衛福部長照專區"
-    url: "https://1966.gov.tw/LTC/mp-201.html"
-    date: "unknown"
-  - title: "衛生福利部入口網站"
-    url: "https://www.mohw.gov.tw/"
-    date: "unknown"
-  - title: "WHO Decade of Healthy Ageing"
-    url: "https://www.who.int/initiatives/decade-of-healthy-ageing"
-    date: "unknown"
+- title: 衛福部長照專區
+  url: https://1966.gov.tw/LTC/mp-201.html
+  date: unknown
+- title: 衛生福利部入口網站
+  url: https://www.mohw.gov.tw/
+  date: unknown
+- title: WHO Decade of Healthy Ageing
+  url: https://www.who.int/initiatives/decade-of-healthy-ageing
+  date: unknown
 ---
 ## 30秒看懂
 
@@ -56,8 +60,8 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-caregiver-task-sharing-1.webp' | relative_url }}" alt="照顧者也需要喘口氣：家庭分工表怎麼排比較不傷感情相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-caregiver-task-sharing-1.webp' | relative_url }}" alt="桌面上一杯溫熱茶飲" width="1200" height="800" loading="lazy">
+  <figcaption>照顧討論前可先放慢語氣。照片：Fitrah 9131／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 ### 1. 先列事情，不先分配責任
@@ -71,8 +75,8 @@ sources:
 ### 2. 分成固定、臨時、可協助三類
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-caregiver-task-sharing-2.webp' | relative_url }}" alt="照顧者也需要喘口氣：家庭分工表怎麼排比較不傷感情的日常實踐自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-caregiver-task-sharing-2.webp' | relative_url }}" alt="桌面上的筆記本、筆與眼鏡" width="1200" height="800" loading="lazy">
+  <figcaption>用筆記整理照顧分工。照片：Shixart1985／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 固定事項適合排進月曆，例如每週採買、每月陪同辦事、固定電話關心。臨時事項需要備援，例如家電故障、交通臨時改變、主要照顧者當天有工作。可協助事項則可討論是否尋找社區、長照、鄰里或付費服務協助。

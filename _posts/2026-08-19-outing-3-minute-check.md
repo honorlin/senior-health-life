@@ -1,51 +1,58 @@
 ---
 layout: post
-title: "出門前3分鐘：錢包、藥袋、手機與交通卡的安心檢查"
+title: 出門前3分鐘：錢包、藥袋、手機與交通卡的安心檢查
 slug: outing-3-minute-check
-description: "熟齡外出不必準備很多，只要用固定清單確認錢包、手機、交通卡、鑰匙與隨身用品，就能更從容。"
+description: 熟齡外出不必準備很多，只要用固定清單確認錢包、手機、交通卡、鑰匙與隨身用品，就能更從容。
 category: mobility
-category_name: "行｜安心好出行"
-tags: ["外出準備", "交通安全", "防詐", "熟齡生活"]
+category_name: 行｜安心好出行
+tags:
+- 外出準備
+- 交通安全
+- 防詐
+- 熟齡生活
 risk_level: green
-image: "/assets/images/posts/2026-08-19-outing-3-minute-check.webp"
-image_alt: "出門前3分鐘：錢包、藥袋、手機與交通卡的安心檢查自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-outing-3-minute-check.webp
+image_alt: 悠遊卡卡片近照
+image_caption: 悠遊卡近照，示意出門前可確認交通卡是否帶齊並有餘額。攝影／作者：01x07x2022000；來源：Wikimedia Commons；授權：CC0。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-outing-3-minute-check-1.webp"
-    alt: "出門前3分鐘：錢包、藥袋、手機與交通卡的安心檢查相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-outing-3-minute-check-2.webp"
-    alt: "出門前3分鐘：錢包、藥袋、手機與交通卡的安心檢查的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-outing-3-minute-check-1.webp
+  alt: 一週分格藥盒與藥品
+  caption: 分格藥盒示意，提醒出門前確認隨身藥袋或必要用品。攝影／作者：Jacek Halicki；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
+- file: /assets/images/posts/2026-08-19-outing-3-minute-check-2.webp
+  alt: 桌上排列手機、鑰匙與日常出門物品
+  caption: 手機與日常出門物品示意，可搭配錢包、鑰匙與聯絡方式的出門檢查。攝影／作者：Mark；來源：Wikimedia Commons；授權：CC BY 3.0。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-outing-3-minute-check.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-outing-3-minute-check-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-outing-3-minute-check-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-outing-3-minute-check.webp
+  creator: 01x07x2022000
+  source: https://commons.wikimedia.org/wiki/File:EasyCard_2019.JPG
+  license: CC0
+  license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x630, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-outing-3-minute-check-1.webp
+  creator: Jacek Halicki
+  source: https://commons.wikimedia.org/wiki/File:2023_Kasetka_z_lekami.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-outing-3-minute-check-2.webp
+  creator: Mark
+  source: https://commons.wikimedia.org/wiki/File:Lined_Up_For_Going_To_Work_Early_(169728603).jpeg
+  license: CC BY 3.0
+  license_url: https://creativecommons.org/licenses/by/3.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
 sources:
-  - title: "交通部公路局｜高齡者交通安全宣導入口"
-    url: "https://www.thb.gov.tw/"
-    date: "unknown"
-  - title: "內政部警政署165全民防騙網"
-    url: "https://165.npa.gov.tw/"
-    date: "unknown"
-  - title: "國民健康署｜長者防跌妙招手冊"
-    url: "https://www.hpa.gov.tw/Pages/EBook.aspx?nodeid=1193"
-    date: "unknown"
+- title: 交通部公路局｜高齡者交通安全宣導入口
+  url: https://www.thb.gov.tw/
+  date: unknown
+- title: 內政部警政署165全民防騙網
+  url: https://165.npa.gov.tw/
+  date: unknown
+- title: 國民健康署｜長者防跌妙招手冊
+  url: https://www.hpa.gov.tw/Pages/EBook.aspx?nodeid=1193
+  date: unknown
 ---
 
 ## 30秒看懂
@@ -57,8 +64,8 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-outing-3-minute-check-1.webp' | relative_url }}" alt="出門前3分鐘：錢包、藥袋、手機與交通卡的安心檢查相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-outing-3-minute-check-1.webp' | relative_url }}" alt="桌上排列手機、鑰匙與日常出門物品" width="1200" height="800" loading="lazy">
+  <figcaption>手機與日常出門物品示意，可搭配錢包、鑰匙與聯絡方式的出門檢查。攝影／作者：Mark；來源：Wikimedia Commons；授權：CC BY 3.0。</figcaption>
 </figure>
 
 

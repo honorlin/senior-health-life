@@ -1,51 +1,58 @@
 ---
 layout: post
-title: "搭公車捷運更從容：熟齡族避開尖峰、善用座位與扶手的小技巧"
+title: 搭公車捷運更從容：熟齡族避開尖峰、善用座位與扶手的小技巧
 slug: bus-mrt-calm-ride
-description: "搭大眾運輸時，提早查路線、避開尖峰、站穩再刷卡，讓熟齡外出多一點餘裕。"
+description: 搭大眾運輸時，提早查路線、避開尖峰、站穩再刷卡，讓熟齡外出多一點餘裕。
 category: mobility
-category_name: "行｜安心好出行"
-tags: ["大眾運輸", "公車捷運", "外出安全", "無障礙"]
+category_name: 行｜安心好出行
+tags:
+- 大眾運輸
+- 公車捷運
+- 外出安全
+- 無障礙
 risk_level: green
-image: "/assets/images/posts/2026-08-19-bus-mrt-calm-ride.webp"
-image_alt: "搭公車捷運更從容：熟齡族避開尖峰、善用座位與扶手的小技巧自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-bus-mrt-calm-ride.webp
+image_alt: 台北捷運車廂內部與座位
+image_caption: 台北捷運車廂內部，示意搭乘時可先觀察座位、扶手與車門位置。攝影／作者：4300streetcar；來源：Wikimedia Commons；授權：CC BY 4.0。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-bus-mrt-calm-ride-1.webp"
-    alt: "搭公車捷運更從容：熟齡族避開尖峰、善用座位與扶手的小技巧相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-bus-mrt-calm-ride-2.webp"
-    alt: "搭公車捷運更從容：熟齡族避開尖峰、善用座位與扶手的小技巧的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-bus-mrt-calm-ride-1.webp
+  alt: 台北公車車廂內部與扶手
+  caption: 台北公車車廂內部，示意上車後可優先站穩並抓好扶手。攝影／作者：Kiyoteru Awaji；來源：Wikimedia Commons；授權：CC BY 4.0。
+- file: /assets/images/posts/2026-08-19-bus-mrt-calm-ride-2.webp
+  alt: 台北捷運車廂內的博愛座區域
+  caption: 台北捷運博愛座區域，示意熟齡族可善用座位與扶手讓旅程更穩定。攝影／作者：User:Marcushsu；來源：Wikimedia Commons；授權：CC BY-SA 3.0。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-bus-mrt-calm-ride.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-bus-mrt-calm-ride-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-bus-mrt-calm-ride-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-bus-mrt-calm-ride.webp
+  creator: 4300streetcar
+  source: https://commons.wikimedia.org/wiki/File:Taipei_MRT_C371_interior_March_2026_1.jpg
+  license: CC BY 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x630, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-bus-mrt-calm-ride-1.webp
+  creator: Kiyoteru Awaji
+  source: https://commons.wikimedia.org/wiki/File:Taipei_Bus_Route_203_Interior.jpg
+  license: CC BY 4.0
+  license_url: https://creativecommons.org/licenses/by/4.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-bus-mrt-calm-ride-2.webp
+  creator: User:Marcushsu
+  source: https://commons.wikimedia.org/wiki/File:Priority_Seats_MRT_Taipei.JPG
+  license: CC BY-SA 3.0
+  license_url: http://creativecommons.org/licenses/by-sa/3.0/
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
 sources:
-  - title: "交通部道安資訊查詢網"
-    url: "https://168.motc.gov.tw/"
-    date: "unknown"
-  - title: "交通部觀光署｜無障礙旅遊入口"
-    url: "https://www.taiwan.net.tw/m1.aspx?sNo=0000185"
-    date: "unknown"
-  - title: "國民健康署｜長者防跌專區"
-    url: "https://www.hpa.gov.tw/4624/s"
-    date: "unknown"
+- title: 交通部道安資訊查詢網
+  url: https://168.motc.gov.tw/
+  date: unknown
+- title: 交通部觀光署｜無障礙旅遊入口
+  url: https://www.taiwan.net.tw/m1.aspx?sNo=0000185
+  date: unknown
+- title: 國民健康署｜長者防跌專區
+  url: https://www.hpa.gov.tw/4624/s
+  date: unknown
 ---
 
 ## 30秒看懂
@@ -57,8 +64,8 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-bus-mrt-calm-ride-1.webp' | relative_url }}" alt="搭公車捷運更從容：熟齡族避開尖峰、善用座位與扶手的小技巧相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-bus-mrt-calm-ride-1.webp' | relative_url }}" alt="台北捷運車廂內的博愛座區域" width="1200" height="800" loading="lazy">
+  <figcaption>台北捷運博愛座區域，示意熟齡族可善用座位與扶手讓旅程更穩定。攝影／作者：User:Marcushsu；來源：Wikimedia Commons；授權：CC BY-SA 3.0。</figcaption>
 </figure>
 
 

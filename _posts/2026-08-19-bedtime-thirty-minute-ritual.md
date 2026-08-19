@@ -1,51 +1,54 @@
 ---
 layout: post
-title: "睡前 30 分鐘慢下來：燈光、手機與泡腳之外的溫和儀式"
+title: 睡前 30 分鐘慢下來：燈光、手機與泡腳之外的溫和儀式
 slug: bedtime-thirty-minute-ritual
-description: "睡前 30 分鐘先把生活慢下來：調暗燈光、收起手機、整理明天小事，建立舒服的入睡前節奏。"
+description: 睡前 30 分鐘先把生活慢下來：調暗燈光、收起手機、整理明天小事，建立舒服的入睡前節奏。
 category: sleep
-category_name: "眠｜一夜好睡眠"
-tags: ["睡前儀式", "睡眠環境", "樂齡生活"]
+category_name: 眠｜一夜好睡眠
+tags:
+- 睡前儀式
+- 睡眠環境
+- 樂齡生活
 risk_level: green
-image: "/assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual.webp"
-image_alt: "睡前 30 分鐘慢下來：燈光、手機與泡腳之外的溫和儀式自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual.webp
+image_alt: 桌面上一杯溫熱茶飲
+image_caption: 睡前放慢節奏的一般情境。照片：Fitrah 9131／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual-1.webp"
-    alt: "睡前 30 分鐘慢下來：燈光、手機與泡腳之外的溫和儀式相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual-2.webp"
-    alt: "睡前 30 分鐘慢下來：燈光、手機與泡腳之外的溫和儀式的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual-1.webp
+  alt: 明亮臥室中的床鋪與窗邊空間
+  caption: 睡前整理臥室環境。照片：Kotivalo／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
+- file: /assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual-2.webp
+  alt: 臥室床邊燈與柔和室內照明
+  caption: 睡前柔和燈光情境。照片：Joe Mabel／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual.webp
+  creator: Fitrah 9131
+  source: https://commons.wikimedia.org/wiki/File:A_cup_of_warm_tea.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×630、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual-1.webp
+  creator: Kotivalo
+  source: https://commons.wikimedia.org/wiki/File:Bedroom_in_loft_apartment.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual-2.webp
+  creator: Joe Mabel
+  source: https://commons.wikimedia.org/wiki/File:Hearst_Castle_-_lamp_in_Marion_Davies'_bedroom_01.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
 sources:
-  - title: "國民健康署健康九九網站"
-    url: "https://health99.hpa.gov.tw/"
-    date: "unknown"
-  - title: "WHO Mental health of older adults"
-    url: "https://www.who.int/news-room/fact-sheets/detail/mental-health-of-older-adults"
-    date: "unknown"
-  - title: "NHS How to fall asleep faster and sleep better"
-    url: "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/"
-    date: "unknown"
+- title: 國民健康署健康九九網站
+  url: https://health99.hpa.gov.tw/
+  date: unknown
+- title: WHO Mental health of older adults
+  url: https://www.who.int/news-room/fact-sheets/detail/mental-health-of-older-adults
+  date: unknown
+- title: NHS How to fall asleep faster and sleep better
+  url: https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-fall-asleep-faster-and-sleep-better/
+  date: unknown
 ---
 
 ## 30秒看懂
@@ -57,16 +60,16 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual-1.webp' | relative_url }}" alt="睡前 30 分鐘慢下來：燈光、手機與泡腳之外的溫和儀式相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual-1.webp' | relative_url }}" alt="明亮臥室中的床鋪與窗邊空間" width="1200" height="800" loading="lazy">
+  <figcaption>睡前整理臥室環境。照片：Kotivalo／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 
 ### 燈光先變柔和
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual-2.webp' | relative_url }}" alt="睡前 30 分鐘慢下來：燈光、手機與泡腳之外的溫和儀式的日常實踐自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-bedtime-thirty-minute-ritual-2.webp' | relative_url }}" alt="臥室床邊燈與柔和室內照明" width="1200" height="800" loading="lazy">
+  <figcaption>睡前柔和燈光情境。照片：Joe Mabel／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 

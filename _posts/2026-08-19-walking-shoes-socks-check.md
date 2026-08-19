@@ -1,51 +1,58 @@
 ---
 layout: post
-title: "一雙好走的鞋：熟齡外出鞋襪的6個安全檢查"
+title: 一雙好走的鞋：熟齡外出鞋襪的6個安全檢查
 slug: walking-shoes-socks-check
-description: "外出前從鞋底、防滑、鞋跟、鞋帶、襪口與磨腳處檢查，讓熟齡散步與辦事更從容。"
+description: 外出前從鞋底、防滑、鞋跟、鞋帶、襪口與磨腳處檢查，讓熟齡散步與辦事更從容。
 category: clothing
-category_name: "衣｜自在好穿著"
-tags: ["熟齡穿搭", "外出鞋", "防滑", "鞋襪檢查"]
+category_name: 衣｜自在好穿著
+tags:
+- 熟齡穿搭
+- 外出鞋
+- 防滑
+- 鞋襪檢查
 risk_level: green
-image: "/assets/images/posts/2026-08-19-walking-shoes-socks-check.webp"
-image_alt: "一雙好走的鞋：熟齡外出鞋襪的6個安全檢查自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-walking-shoes-socks-check.webp
+image_alt: 一雙粉紅色運動鞋近照
+image_caption: 運動鞋近照，示意外出鞋要合腳、好穿脫並保有支撐。攝影／作者：Hunter Johnson hjohnson02；來源：Wikimedia Commons；授權：CC0。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-walking-shoes-socks-check-1.webp"
-    alt: "一雙好走的鞋：熟齡外出鞋襪的6個安全檢查相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-walking-shoes-socks-check-2.webp"
-    alt: "一雙好走的鞋：熟齡外出鞋襪的6個安全檢查的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-walking-shoes-socks-check-1.webp
+  alt: 一雙休閒鞋鞋面與鞋帶近照
+  caption: 休閒鞋鞋面與鞋帶細節，提醒檢查鞋帶與鞋面是否穩固。攝影／作者：Gauthier DELECROIX - 郭天 from Qingdao, China；來源：Wikimedia Commons；授權：CC BY 2.0。
+- file: /assets/images/posts/2026-08-19-walking-shoes-socks-check-2.webp
+  alt: 鞋底紋路與止滑鞋底近照
+  caption: 鞋底紋路近照，示意出門前可查看鞋底磨耗與止滑狀況。攝影／作者：TudorTulok；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-walking-shoes-socks-check.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-walking-shoes-socks-check-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-walking-shoes-socks-check-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-walking-shoes-socks-check.webp
+  creator: Hunter Johnson hjohnson02
+  source: https://commons.wikimedia.org/wiki/File:Womens_pink_running_shoes_(Unsplash).jpg
+  license: CC0
+  license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x630, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-walking-shoes-socks-check-1.webp
+  creator: Gauthier DELECROIX - 郭天 from Qingdao, China
+  source: https://commons.wikimedia.org/wiki/File:Shoes_22_52_(30619988546).jpg
+  license: CC BY 2.0
+  license_url: https://creativecommons.org/licenses/by/2.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-walking-shoes-socks-check-2.webp
+  creator: TudorTulok
+  source: https://commons.wikimedia.org/wiki/File:Vibram_shoes_close.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
 sources:
-  - title: "國民健康署｜長者防跌妙招手冊"
-    url: "https://www.hpa.gov.tw/Pages/EBook.aspx?nodeid=1193"
-    date: "unknown"
-  - title: "國民健康署｜長者防跌專區"
-    url: "https://www.hpa.gov.tw/4624/s"
-    date: "unknown"
-  - title: "NHS｜Falls prevention"
-    url: "https://www.nhs.uk/conditions/falls/prevention/"
-    date: "unknown"
+- title: 國民健康署｜長者防跌妙招手冊
+  url: https://www.hpa.gov.tw/Pages/EBook.aspx?nodeid=1193
+  date: unknown
+- title: 國民健康署｜長者防跌專區
+  url: https://www.hpa.gov.tw/4624/s
+  date: unknown
+- title: NHS｜Falls prevention
+  url: https://www.nhs.uk/conditions/falls/prevention/
+  date: unknown
 ---
 
 ## 30秒看懂
@@ -57,8 +64,8 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-walking-shoes-socks-check-1.webp' | relative_url }}" alt="一雙好走的鞋：熟齡外出鞋襪的6個安全檢查相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-walking-shoes-socks-check-1.webp' | relative_url }}" alt="鞋底紋路與止滑鞋底近照" width="1200" height="800" loading="lazy">
+  <figcaption>鞋底紋路近照，示意出門前可查看鞋底磨耗與止滑狀況。攝影／作者：TudorTulok；來源：Wikimedia Commons；授權：CC BY-SA 4.0。</figcaption>
 </figure>
 
 

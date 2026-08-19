@@ -1,51 +1,54 @@
 ---
 layout: post
-title: "臥室整理成好睡的樣子：溫度、光線、聲音與床邊安全"
+title: 臥室整理成好睡的樣子：溫度、光線、聲音與床邊安全
 slug: bedroom-light-sound-safety
-description: "把臥室整理成舒服又安全的空間：注意溫度、光線、聲音與床邊動線，讓夜晚少一點干擾。"
+description: 把臥室整理成舒服又安全的空間：注意溫度、光線、聲音與床邊動線，讓夜晚少一點干擾。
 category: sleep
-category_name: "眠｜一夜好睡眠"
-tags: ["睡眠環境", "臥室整理", "居家安全"]
+category_name: 眠｜一夜好睡眠
+tags:
+- 睡眠環境
+- 臥室整理
+- 居家安全
 risk_level: green
-image: "/assets/images/posts/2026-08-19-bedroom-light-sound-safety.webp"
-image_alt: "臥室整理成好睡的樣子：溫度、光線、聲音與床邊安全自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-bedroom-light-sound-safety.webp
+image_alt: 臥室床邊燈與柔和室內照明
+image_caption: 臥室柔和照明情境。照片：Joe Mabel／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-bedroom-light-sound-safety-1.webp"
-    alt: "臥室整理成好睡的樣子：溫度、光線、聲音與床邊安全相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-bedroom-light-sound-safety-2.webp"
-    alt: "臥室整理成好睡的樣子：溫度、光線、聲音與床邊安全的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-bedroom-light-sound-safety-1.webp
+  alt: 明亮臥室中的床鋪與窗邊空間
+  caption: 整潔明亮的臥室環境。照片：Kotivalo／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
+- file: /assets/images/posts/2026-08-19-bedroom-light-sound-safety-2.webp
+  alt: 床邊小燈與臥室角落
+  caption: 夜間床邊燈光情境。照片：Marcus Quigmire from Florida, USA／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-bedroom-light-sound-safety.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-bedroom-light-sound-safety-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-bedroom-light-sound-safety-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-bedroom-light-sound-safety.webp
+  creator: Joe Mabel
+  source: https://commons.wikimedia.org/wiki/File:Hearst_Castle_-_lamp_in_Marion_Davies'_bedroom_01.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×630、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-bedroom-light-sound-safety-1.webp
+  creator: Kotivalo
+  source: https://commons.wikimedia.org/wiki/File:Bedroom_in_loft_apartment.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-bedroom-light-sound-safety-2.webp
+  creator: Marcus Quigmire from Florida, USA
+  source: https://commons.wikimedia.org/wiki/File:Bedroom_lamp%3F_(2284478474).jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
 sources:
-  - title: "國民健康署長者健康促進入口"
-    url: "https://www.hpa.gov.tw/Pages/List.aspx?nodeid=40"
-    date: "unknown"
-  - title: "國民健康署長者防跌妙招手冊"
-    url: "https://www.hpa.gov.tw/Pages/EBook.aspx?nodeid=1193"
-    date: "unknown"
-  - title: "Mayo Clinic Sleep tips: 6 steps to better sleep"
-    url: "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/sleep/art-20048379"
-    date: "unknown"
+- title: 國民健康署長者健康促進入口
+  url: https://www.hpa.gov.tw/Pages/List.aspx?nodeid=40
+  date: unknown
+- title: 國民健康署長者防跌妙招手冊
+  url: https://www.hpa.gov.tw/Pages/EBook.aspx?nodeid=1193
+  date: unknown
+- title: 'Mayo Clinic Sleep tips: 6 steps to better sleep'
+  url: https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/sleep/art-20048379
+  date: unknown
 ---
 
 ## 30秒看懂
@@ -57,16 +60,16 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-bedroom-light-sound-safety-1.webp' | relative_url }}" alt="臥室整理成好睡的樣子：溫度、光線、聲音與床邊安全相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-bedroom-light-sound-safety-1.webp' | relative_url }}" alt="明亮臥室中的床鋪與窗邊空間" width="1200" height="800" loading="lazy">
+  <figcaption>整潔明亮的臥室環境。照片：Kotivalo／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 
 ### 溫度：以不悶、不冷為原則
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-bedroom-light-sound-safety-2.webp' | relative_url }}" alt="臥室整理成好睡的樣子：溫度、光線、聲音與床邊安全的日常實踐自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-bedroom-light-sound-safety-2.webp' | relative_url }}" alt="床邊小燈與臥室角落" width="1200" height="800" loading="lazy">
+  <figcaption>夜間床邊燈光情境。照片：Marcus Quigmire from Florida, USA／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 

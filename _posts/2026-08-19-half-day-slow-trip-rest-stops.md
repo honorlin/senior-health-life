@@ -1,51 +1,54 @@
 ---
 layout: post
-title: "不趕行程的半日小旅行：熟齡出遊如何安排休息點"
+title: 不趕行程的半日小旅行：熟齡出遊如何安排休息點
 slug: half-day-slow-trip-rest-stops
-description: "半日小旅行最重要的不是景點數量，而是交通、洗手間、座位與休息時間都有預留。"
+description: 半日小旅行最重要的不是景點數量，而是交通、洗手間、座位與休息時間都有預留。
 category: leisure
-category_name: "樂｜樂活好時光"
-tags: ["樂齡旅遊", "慢旅行", "無障礙旅遊"]
+category_name: 樂｜樂活好時光
+tags:
+- 樂齡旅遊
+- 慢旅行
+- 無障礙旅遊
 risk_level: green
-image: "/assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops.webp"
-image_alt: "不趕行程的半日小旅行：熟齡出遊如何安排休息點自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops.webp
+image_alt: 森林步道旁可休息的長椅
+image_caption: 一般慢旅行中的休息長椅。照片：H. Zell／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops-1.webp"
-    alt: "不趕行程的半日小旅行：熟齡出遊如何安排休息點相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops-2.webp"
-    alt: "不趕行程的半日小旅行：熟齡出遊如何安排休息點的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops-1.webp
+  alt: 公園中平緩的步道
+  caption: 慢旅行可選擇平緩步道的一般情境。照片：John Phelan／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
+- file: /assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops-2.webp
+  alt: 桌面上一杯溫熱茶飲
+  caption: 旅途中坐下喝飲品休息的一般情境。照片：Fitrah 9131／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops.webp
+  creator: H. Zell
+  source: https://commons.wikimedia.org/wiki/File:Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×630、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops-1.webp
+  creator: John Phelan
+  source: https://commons.wikimedia.org/wiki/File:Walking_path_at_Newtown_Park,_Newtown_GA.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops-2.webp
+  creator: Fitrah 9131
+  source: https://commons.wikimedia.org/wiki/File:A_cup_of_warm_tea.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
 sources:
-  - title: "交通部觀光署台灣旅遊網"
-    url: "https://www.taiwan.net.tw/"
-    date: "unknown"
-  - title: "交通部觀光署無障礙旅遊入口"
-    url: "https://www.taiwan.net.tw/m1.aspx?sNo=0000185"
-    date: "unknown"
-  - title: "WHO Age-friendly environments"
-    url: "https://www.who.int/teams/social-determinants-of-health/demographic-change-and-healthy-ageing/age-friendly-environments"
-    date: "unknown"
+- title: 交通部觀光署台灣旅遊網
+  url: https://www.taiwan.net.tw/
+  date: unknown
+- title: 交通部觀光署無障礙旅遊入口
+  url: https://www.taiwan.net.tw/m1.aspx?sNo=0000185
+  date: unknown
+- title: WHO Age-friendly environments
+  url: https://www.who.int/teams/social-determinants-of-health/demographic-change-and-healthy-ageing/age-friendly-environments
+  date: unknown
 ---
 
 ## 30秒看懂
@@ -57,16 +60,16 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops-1.webp' | relative_url }}" alt="不趕行程的半日小旅行：熟齡出遊如何安排休息點相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops-1.webp' | relative_url }}" alt="公園中平緩的步道" width="1200" height="800" loading="lazy">
+  <figcaption>慢旅行可選擇平緩步道的一般情境。照片：John Phelan／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 
 ### 只放一個主景點
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops-2.webp' | relative_url }}" alt="不趕行程的半日小旅行：熟齡出遊如何安排休息點的日常實踐自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-half-day-slow-trip-rest-stops-2.webp' | relative_url }}" alt="桌面上一杯溫熱茶飲" width="1200" height="800" loading="lazy">
+  <figcaption>旅途中坐下喝飲品休息的一般情境。照片：Fitrah 9131／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 

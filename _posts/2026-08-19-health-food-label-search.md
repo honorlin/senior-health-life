@@ -1,51 +1,55 @@
 ---
 layout: post
-title: "看到「健康食品」四個字先別急：小綠人標章與許可字號怎麼查"
+title: 看到「健康食品」四個字先別急：小綠人標章與許可字號怎麼查
 slug: health-food-label-search
-description: "認識健康食品標示、小綠人標章與許可字號查詢，購買前先確認來源與標示，不被話術牽著走。"
+description: 認識健康食品標示、小綠人標章與許可字號查詢，購買前先確認來源與標示，不被話術牽著走。
 category: supplements
-category_name: "知｜保健品知識"
-tags: ["健康食品", "食品標示", "小綠人標章", "理性選擇"]
+category_name: 知｜保健品知識
+tags:
+- 健康食品
+- 食品標示
+- 小綠人標章
+- 理性選擇
 risk_level: blue
-image: "/assets/images/posts/2026-08-19-health-food-label-search.webp"
-image_alt: "看到「健康食品」四個字先別急：小綠人標章與許可字號怎麼查自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-health-food-label-search.webp
+image_alt: 白色瓶旁的維生素錠劑
+image_caption: 保健食品錠劑與瓶身的一般情境。照片：Ragesoss／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-health-food-label-search-1.webp"
-    alt: "看到「健康食品」四個字先別急：小綠人標章與許可字號怎麼查相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-health-food-label-search-2.webp"
-    alt: "看到「健康食品」四個字先別急：小綠人標章與許可字號怎麼查的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-health-food-label-search-1.webp
+  alt: 白色瓶中的魚油膠囊
+  caption: 膠囊型保健品的一般情境。照片：Jernej Furman from Slovenia／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
+- file: /assets/images/posts/2026-08-19-health-food-label-search-2.webp
+  alt: 桌面上多種藥品與保健品包裝
+  caption: 整理補充品與藥品清單的一般情境。照片：LadyofProcrastination／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-health-food-label-search.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-health-food-label-search-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-health-food-label-search-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-health-food-label-search.webp
+  creator: Ragesoss
+  source: https://commons.wikimedia.org/wiki/File:B_vitamin_supplement_tablets.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×630、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-health-food-label-search-1.webp
+  creator: Jernej Furman from Slovenia
+  source: https://commons.wikimedia.org/wiki/File:Omega_3_capsules_in_white_bottle_(52715127894).jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-health-food-label-search-2.webp
+  creator: LadyofProcrastination
+  source: https://commons.wikimedia.org/wiki/File:Assorted_pharmaceuticals_by_LadyofProcrastination.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
 sources:
-  - title: "食藥署健康食品管理與資料查詢入口"
-    url: "https://www.fda.gov.tw/TC/site.aspx?sid=1507"
-    date: "unknown"
-  - title: "食藥署健康食品資料查詢"
-    url: "https://consumer.fda.gov.tw/Food/InfoHealthFood.aspx?nodeID=162"
-    date: "unknown"
-  - title: "食藥署食品廣告與標示相關規範入口"
-    url: "https://www.fda.gov.tw/TC/siteList.aspx?sid=4261"
-    date: "unknown"
+- title: 食藥署健康食品管理與資料查詢入口
+  url: https://www.fda.gov.tw/TC/site.aspx?sid=1507
+  date: unknown
+- title: 食藥署健康食品資料查詢
+  url: https://consumer.fda.gov.tw/Food/InfoHealthFood.aspx?nodeID=162
+  date: unknown
+- title: 食藥署食品廣告與標示相關規範入口
+  url: https://www.fda.gov.tw/TC/siteList.aspx?sid=4261
+  date: unknown
 ---
 ## 30秒看懂
 
@@ -56,8 +60,8 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-health-food-label-search-1.webp' | relative_url }}" alt="看到「健康食品」四個字先別急：小綠人標章與許可字號怎麼查相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-health-food-label-search-1.webp' | relative_url }}" alt="白色瓶中的魚油膠囊" width="1200" height="800" loading="lazy">
+  <figcaption>膠囊型保健品的一般情境。照片：Jernej Furman from Slovenia／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 ### 1. 先分清楚：一般食品、保健食品、健康食品
@@ -69,8 +73,8 @@ sources:
 ### 2. 小綠人標章與許可字號怎麼看
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-health-food-label-search-2.webp' | relative_url }}" alt="看到「健康食品」四個字先別急：小綠人標章與許可字號怎麼查的日常實踐自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-health-food-label-search-2.webp' | relative_url }}" alt="桌面上多種藥品與保健品包裝" width="1200" height="800" loading="lazy">
+  <figcaption>整理補充品與藥品清單的一般情境。照片：LadyofProcrastination／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 合格健康食品通常會標示小綠人標章與許可字號。購買時可以先找包裝上的字號，再到食藥署提供的查詢系統輸入確認。查詢時注意品名、廠商、許可內容是否與手上的產品一致，不要只看截圖或賣方提供的片段資訊。

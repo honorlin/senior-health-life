@@ -1,51 +1,55 @@
 ---
 layout: post
-title: "覺得孤單時可以做的 5 件小事：從打招呼到固定聚會"
+title: 覺得孤單時可以做的 5 件小事：從打招呼到固定聚會
 slug: loneliness-small-steps
-description: "孤單不必急著用熱鬧填滿，先從打招呼、固定通話與參加熟悉活動，慢慢把連結找回來。"
+description: 孤單不必急著用熱鬧填滿，先從打招呼、固定通話與參加熟悉活動，慢慢把連結找回來。
 category: wellbeing
-category_name: "心｜天天好心情"
-tags: ["孤單感", "社會連結", "熟齡生活", "心情支持"]
+category_name: 心｜天天好心情
+tags:
+- 孤單感
+- 社會連結
+- 熟齡生活
+- 心情支持
 risk_level: green
-image: "/assets/images/posts/2026-08-19-loneliness-small-steps.webp"
-image_alt: "覺得孤單時可以做的 5 件小事：從打招呼到固定聚會自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-loneliness-small-steps.webp
+image_alt: 桌面上一杯溫熱茶飲
+image_caption: 安靜喝茶與整理心情。照片：Fitrah 9131／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-loneliness-small-steps-1.webp"
-    alt: "覺得孤單時可以做的 5 件小事：從打招呼到固定聚會相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-loneliness-small-steps-2.webp"
-    alt: "覺得孤單時可以做的 5 件小事：從打招呼到固定聚會的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-loneliness-small-steps-1.webp
+  alt: 森林步道旁可休息的長椅
+  caption: 外出散步時可坐下休息的情境。照片：H. Zell／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
+- file: /assets/images/posts/2026-08-19-loneliness-small-steps-2.webp
+  alt: 桌面上的筆記本、筆與眼鏡
+  caption: 寫下聯絡與生活安排的小筆記。照片：Shixart1985／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-loneliness-small-steps.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-loneliness-small-steps-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-loneliness-small-steps-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-loneliness-small-steps.webp
+  creator: Fitrah 9131
+  source: https://commons.wikimedia.org/wiki/File:A_cup_of_warm_tea.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×630、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-loneliness-small-steps-1.webp
+  creator: H. Zell
+  source: https://commons.wikimedia.org/wiki/File:Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-loneliness-small-steps-2.webp
+  creator: Shixart1985
+  source: https://commons.wikimedia.org/wiki/File:Desk_with_notebook_pens_and_glasses.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
 sources:
-  - title: "WHO social isolation and loneliness among older people"
-    url: "https://www.who.int/teams/social-determinants-of-health/demographic-change-and-healthy-ageing/social-isolation-and-loneliness"
-    date: "unknown"
-  - title: "WHO mental health of older adults fact sheet"
-    url: "https://www.who.int/news-room/fact-sheets/detail/mental-health-of-older-adults"
-    date: "unknown"
-  - title: "國民健康署長者健康促進入口"
-    url: "https://www.hpa.gov.tw/Pages/List.aspx?nodeid=40"
-    date: "unknown"
+- title: WHO social isolation and loneliness among older people
+  url: https://www.who.int/teams/social-determinants-of-health/demographic-change-and-healthy-ageing/social-isolation-and-loneliness
+  date: unknown
+- title: WHO mental health of older adults fact sheet
+  url: https://www.who.int/news-room/fact-sheets/detail/mental-health-of-older-adults
+  date: unknown
+- title: 國民健康署長者健康促進入口
+  url: https://www.hpa.gov.tw/Pages/List.aspx?nodeid=40
+  date: unknown
 ---
 ## 30秒看懂
 
@@ -56,8 +60,8 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-loneliness-small-steps-1.webp' | relative_url }}" alt="覺得孤單時可以做的 5 件小事：從打招呼到固定聚會相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-loneliness-small-steps-1.webp' | relative_url }}" alt="森林步道旁可休息的長椅" width="1200" height="800" loading="lazy">
+  <figcaption>外出散步時可坐下休息的情境。照片：H. Zell／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 ### 1. 從固定打招呼開始，不急著深聊
@@ -69,8 +73,8 @@ sources:
 ### 2. 把興趣變成見面的理由
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-loneliness-small-steps-2.webp' | relative_url }}" alt="覺得孤單時可以做的 5 件小事：從打招呼到固定聚會的日常實踐自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-loneliness-small-steps-2.webp' | relative_url }}" alt="桌面上的筆記本、筆與眼鏡" width="1200" height="800" loading="lazy">
+  <figcaption>寫下聯絡與生活安排的小筆記。照片：Shixart1985／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 很多關係不是從談心開始，而是從一起做事開始。喜歡走路的人可以找固定路線；喜歡煮飯的人可以交換一道家常菜做法；喜歡閱讀的人可以約每週分享一篇短文；喜歡種花的人可以問問鄰居澆水和換盆經驗。

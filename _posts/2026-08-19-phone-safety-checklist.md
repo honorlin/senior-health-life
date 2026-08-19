@@ -1,48 +1,55 @@
 ---
 layout: post
-title: "手機密碼、備份聯絡人與定位分享：給爸媽的一頁式數位安心清單"
+title: 手機密碼、備份聯絡人與定位分享：給爸媽的一頁式數位安心清單
 slug: phone-safety-checklist
-description: "用一頁清單整理手機密碼、緊急聯絡人、備份與定位分享原則，讓爸媽用手機更安心。"
+description: 用一頁清單整理手機密碼、緊急聯絡人、備份與定位分享原則，讓爸媽用手機更安心。
 category: digital
-category_name: "安｜數位好安心"
-tags: ["手機安全", "數位陪伴", "個資保護", "防詐騙"]
+category_name: 安｜數位好安心
+tags:
+- 手機安全
+- 數位陪伴
+- 個資保護
+- 防詐騙
 risk_level: green
-image: "/assets/images/posts/2026-08-19-phone-safety-checklist.webp"
-image_alt: "手機密碼、備份聯絡人與定位分享：給爸媽的一頁式數位安心清單自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-phone-safety-checklist.webp
+image_alt: 智慧型手機鎖定畫面近照
+image_caption: 手機鎖定畫面示意，提醒設定密碼與鎖定方式可增加日常使用安全。攝影／作者：Acabashi；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-phone-safety-checklist-1.webp"
-    alt: "手機密碼、備份聯絡人與定位分享：給爸媽的一頁式數位安心清單相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-phone-safety-checklist-2.webp"
-    alt: "手機密碼、備份聯絡人與定位分享：給爸媽的一頁式數位安心清單的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-phone-safety-checklist-1.webp
+  alt: 瀏覽器顯示釣魚網站警示畫面
+  caption: 瀏覽器釣魚網站警示畫面，提醒家人檢查手機設定時也要留意陌生連結。攝影／作者：HedwigQuan；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
+- file: /assets/images/posts/2026-08-19-phone-safety-checklist-2.webp
+  alt: 電子郵件收件匣中的釣魚訊息截圖
+  caption: 釣魚郵件截圖示意，提醒備份聯絡人與安全設定之外，也要建立可疑訊息求證習慣。攝影／作者：Kevin Scannell；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-phone-safety-checklist.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-phone-safety-checklist-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-phone-safety-checklist-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-phone-safety-checklist.webp
+  creator: Acabashi
+  source: https://commons.wikimedia.org/wiki/File:Blackview_A60_Smartphone_Android_mobile_phone_front_face_lock_screen.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality 88.
+    No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-phone-safety-checklist-1.webp
+  creator: HedwigQuan
+  source: https://commons.wikimedia.org/wiki/File:Edge-deals-with-phishing-website.png
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality 88.
+    No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-phone-safety-checklist-2.webp
+  creator: Kevin Scannell
+  source: https://commons.wikimedia.org/wiki/File:R%C3%ADomhphost_fioscaireachta_as_Gaeilge.png
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded from Wikimedia Commons; center-cropped, resized to 1200x630, and converted to WebP quality 88.
+    No objects or people were added or removed.
 sources:
-  - title: "內政部警政署165全民防騙網"
-    url: "https://165.npa.gov.tw/"
-    date: "unknown"
-  - title: "內政部警政署刑事警察局"
-    url: "https://cib.npa.gov.tw/"
-    date: "unknown"
+- title: 內政部警政署165全民防騙網
+  url: https://165.npa.gov.tw/
+  date: unknown
+- title: 內政部警政署刑事警察局
+  url: https://cib.npa.gov.tw/
+  date: unknown
 ---
 ## 30秒看懂
 
@@ -53,8 +60,8 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-phone-safety-checklist-1.webp' | relative_url }}" alt="手機密碼、備份聯絡人與定位分享：給爸媽的一頁式數位安心清單相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-phone-safety-checklist-1.webp' | relative_url }}" alt="電子郵件收件匣中的釣魚訊息截圖" width="1200" height="800" loading="lazy">
+  <figcaption>釣魚郵件截圖示意，提醒備份聯絡人與安全設定之外，也要建立可疑訊息求證習慣。攝影／作者：Kevin Scannell；來源：Wikimedia Commons；授權：CC BY-SA 4.0。</figcaption>
 </figure>
 
 ### 1. 密碼要記得住，也不能太好猜

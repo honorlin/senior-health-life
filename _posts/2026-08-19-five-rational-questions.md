@@ -1,51 +1,55 @@
 ---
 layout: post
-title: "保健食品不是越多越好：購買前的 5 個理性問題"
+title: 保健食品不是越多越好：購買前的 5 個理性問題
 slug: five-rational-questions
-description: "買保健食品前先問需求、標示、來源、預算與專業提醒，避免因廣告焦慮而重複購買。"
+description: 買保健食品前先問需求、標示、來源、預算與專業提醒，避免因廣告焦慮而重複購買。
 category: supplements
-category_name: "知｜保健品知識"
-tags: ["保健食品", "食品標示", "理性購買", "健康食品"]
+category_name: 知｜保健品知識
+tags:
+- 保健食品
+- 食品標示
+- 理性購買
+- 健康食品
 risk_level: blue
-image: "/assets/images/posts/2026-08-19-five-rational-questions.webp"
-image_alt: "保健食品不是越多越好：購買前的 5 個理性問題自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-five-rational-questions.webp
+image_alt: 白色瓶旁的維生素錠劑
+image_caption: 保健食品錠劑與瓶身的一般情境。照片：Ragesoss／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-five-rational-questions-1.webp"
-    alt: "保健食品不是越多越好：購買前的 5 個理性問題相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-five-rational-questions-2.webp"
-    alt: "保健食品不是越多越好：購買前的 5 個理性問題的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-five-rational-questions-1.webp
+  alt: 白色瓶中的魚油膠囊
+  caption: 膠囊型保健品的一般情境。照片：Jernej Furman from Slovenia／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
+- file: /assets/images/posts/2026-08-19-five-rational-questions-2.webp
+  alt: 桌面上多種藥品與保健品包裝
+  caption: 理性整理補充品與藥品清單。照片：LadyofProcrastination／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-five-rational-questions.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-five-rational-questions-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-five-rational-questions-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-five-rational-questions.webp
+  creator: Ragesoss
+  source: https://commons.wikimedia.org/wiki/File:B_vitamin_supplement_tablets.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×630、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-five-rational-questions-1.webp
+  creator: Jernej Furman from Slovenia
+  source: https://commons.wikimedia.org/wiki/File:Omega_3_capsules_in_white_bottle_(52715127894).jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-five-rational-questions-2.webp
+  creator: LadyofProcrastination
+  source: https://commons.wikimedia.org/wiki/File:Assorted_pharmaceuticals_by_LadyofProcrastination.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
 sources:
-  - title: "食藥署健康食品管理與資料查詢入口"
-    url: "https://www.fda.gov.tw/TC/site.aspx?sid=1507"
-    date: "unknown"
-  - title: "食藥署食品標示與廣告相關入口"
-    url: "https://www.fda.gov.tw/TC/siteList.aspx?sid=4261"
-    date: "unknown"
-  - title: "食藥署健康食品資料查詢"
-    url: "https://consumer.fda.gov.tw/Food/InfoHealthFood.aspx?nodeID=162"
-    date: "unknown"
+- title: 食藥署健康食品管理與資料查詢入口
+  url: https://www.fda.gov.tw/TC/site.aspx?sid=1507
+  date: unknown
+- title: 食藥署食品標示與廣告相關入口
+  url: https://www.fda.gov.tw/TC/siteList.aspx?sid=4261
+  date: unknown
+- title: 食藥署健康食品資料查詢
+  url: https://consumer.fda.gov.tw/Food/InfoHealthFood.aspx?nodeID=162
+  date: unknown
 ---
 ## 30秒看懂
 
@@ -56,8 +60,8 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-five-rational-questions-1.webp' | relative_url }}" alt="保健食品不是越多越好：購買前的 5 個理性問題相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-five-rational-questions-1.webp' | relative_url }}" alt="白色瓶中的魚油膠囊" width="1200" height="800" loading="lazy">
+  <figcaption>膠囊型保健品的一般情境。照片：Jernej Furman from Slovenia／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 ### 1. 我是因為需要，還是因為害怕？
@@ -69,8 +73,8 @@ sources:
 ### 2. 標示看得懂嗎？看不懂就先不要急
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-five-rational-questions-2.webp' | relative_url }}" alt="保健食品不是越多越好：購買前的 5 個理性問題的日常實踐自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-five-rational-questions-2.webp' | relative_url }}" alt="桌面上多種藥品與保健品包裝" width="1200" height="800" loading="lazy">
+  <figcaption>理性整理補充品與藥品清單。照片：LadyofProcrastination／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 購買前至少看幾項：品名、內容量、成分、營養標示、食用方式、注意事項、保存方式、負責廠商、有效日期。如果包裝只用很大的宣傳語，卻很難找到完整標示，就要保留疑問。

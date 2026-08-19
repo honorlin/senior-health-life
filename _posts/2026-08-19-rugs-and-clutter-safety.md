@@ -1,51 +1,59 @@
 ---
 layout: post
-title: "家裡地墊要不要留？熟齡居家防滑、防絆倒的收納整理法"
+title: 家裡地墊要不要留？熟齡居家防滑、防絆倒的收納整理法
 slug: rugs-and-clutter-safety
-description: "地墊、電線與矮家具如果沒有固定好，容易讓家中動線變複雜；用整理方式打造更順暢的生活空間。"
+description: 地墊、電線與矮家具如果沒有固定好，容易讓家中動線變複雜；用整理方式打造更順暢的生活空間。
 category: safety
-category_name: "住｜安心好居家"
-tags: ["居家整理", "地墊", "防滑", "熟齡安全"]
+category_name: 住｜安心好居家
+tags:
+- 居家整理
+- 地墊
+- 防滑
+- 熟齡安全
 risk_level: green
-image: "/assets/images/posts/2026-08-19-rugs-and-clutter-safety.webp"
-image_alt: "家裡地墊要不要留？熟齡居家防滑、防絆倒的收納整理法自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-rugs-and-clutter-safety.webp
+image_alt: 客廳地板上鋪有區域地毯與家具
+image_caption: 客廳區域地毯的一般情境，提醒熟齡居家可檢查地毯邊角是否固定。攝影／作者：NPS Photo；來源：Wikimedia Commons；授權：Public domain。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-rugs-and-clutter-safety-1.webp"
-    alt: "家裡地墊要不要留？熟齡居家防滑、防絆倒的收納整理法相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-rugs-and-clutter-safety-2.webp"
-    alt: "家裡地墊要不要留？熟齡居家防滑、防絆倒的收納整理法的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-rugs-and-clutter-safety-1.webp
+  alt: 鋪在地面的地毯與邊緣紋理
+  caption: 地毯與邊緣紋理示意，提醒地墊與地毯需要留意防滑與絆倒風險。攝影／作者：unknown artist Details on Google Art Project；來源：Wikimedia Commons；授權：Public
+    domain。
+- file: /assets/images/posts/2026-08-19-rugs-and-clutter-safety-2.webp
+  alt: 平織地毯的邊緣與表面紋理
+  caption: 平織地毯紋理示意，可提醒薄地毯邊緣也要平整固定。攝影／作者：Unknown Caucasian women. Photo by Museum；來源：Wikimedia Commons；授權：Public domain。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-rugs-and-clutter-safety.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-rugs-and-clutter-safety-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-rugs-and-clutter-safety-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-rugs-and-clutter-safety.webp
+  creator: NPS Photo
+  source: https://commons.wikimedia.org/wiki/File:The_living_room_inside_the_birthplace_home_features_a_fireplace,_table_and_chairs,_family_photos,_area_rug_and_floor_console_(7f9f6e78-a966-4608-b9d0-d600db0b5f25).jpg
+  license: Public domain
+  license_url: Wikimedia Commons contributor
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x630, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-rugs-and-clutter-safety-1.webp
+  creator: unknown artist Details on Google Art Project
+  source: https://commons.wikimedia.org/wiki/File:Mamluk_Prayer_Rug_-_Google_Art_Project.jpg
+  license: Public domain
+  license_url: Wikimedia Commons contributor
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-rugs-and-clutter-safety-2.webp
+  creator: Unknown Caucasian women. Photo by Museum
+  source: https://commons.wikimedia.org/wiki/File:Flatweave_rug,_Caucasus,_1875-1925.jpg
+  license: Public domain
+  license_url: Wikimedia Commons contributor
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
 sources:
-  - title: "國民健康署｜長者防跌專區"
-    url: "https://www.hpa.gov.tw/4624/s"
-    date: "unknown"
-  - title: "國民健康署｜長者防跌妙招手冊"
-    url: "https://www.hpa.gov.tw/Pages/EBook.aspx?nodeid=1193"
-    date: "unknown"
-  - title: "Mayo Clinic｜Fall prevention: Simple tips to prevent falls"
-    url: "https://www.mayoclinic.org/healthy-lifestyle/healthy-aging/in-depth/fall-prevention/art-20047358"
-    date: "unknown"
+- title: 國民健康署｜長者防跌專區
+  url: https://www.hpa.gov.tw/4624/s
+  date: unknown
+- title: 國民健康署｜長者防跌妙招手冊
+  url: https://www.hpa.gov.tw/Pages/EBook.aspx?nodeid=1193
+  date: unknown
+- title: 'Mayo Clinic｜Fall prevention: Simple tips to prevent falls'
+  url: https://www.mayoclinic.org/healthy-lifestyle/healthy-aging/in-depth/fall-prevention/art-20047358
+  date: unknown
 ---
 
 ## 30秒看懂
@@ -57,8 +65,8 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-rugs-and-clutter-safety-1.webp' | relative_url }}" alt="家裡地墊要不要留？熟齡居家防滑、防絆倒的收納整理法相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-rugs-and-clutter-safety-1.webp' | relative_url }}" alt="平織地毯的邊緣與表面紋理" width="1200" height="800" loading="lazy">
+  <figcaption>平織地毯紋理示意，可提醒薄地毯邊緣也要平整固定。攝影／作者：Unknown Caucasian women. Photo by Museum；來源：Wikimedia Commons；授權：Public domain。</figcaption>
 </figure>
 
 

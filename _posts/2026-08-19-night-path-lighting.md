@@ -1,51 +1,58 @@
 ---
 layout: post
-title: "夜裡起床不摸黑：臥室到廁所的照明與動線檢查"
+title: 夜裡起床不摸黑：臥室到廁所的照明與動線檢查
 slug: night-path-lighting
-description: "把床邊、走道、廁所入口的光線與障礙物整理好，讓夜間起身更看得清楚、走得穩。"
+description: 把床邊、走道、廁所入口的光線與障礙物整理好，讓夜間起身更看得清楚、走得穩。
 category: safety
-category_name: "住｜安心好居家"
-tags: ["夜間照明", "居家安全", "防跌", "動線整理"]
+category_name: 住｜安心好居家
+tags:
+- 夜間照明
+- 居家安全
+- 防跌
+- 動線整理
 risk_level: green
-image: "/assets/images/posts/2026-08-19-night-path-lighting.webp"
-image_alt: "夜裡起床不摸黑：臥室到廁所的照明與動線檢查自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-night-path-lighting.webp
+image_alt: 床邊桌上的檯燈近照
+image_caption: 床邊檯燈示意，夜間起身前可先有柔和光源。攝影／作者：PatongHarbor；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-night-path-lighting-1.webp"
-    alt: "夜裡起床不摸黑：臥室到廁所的照明與動線檢查相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-night-path-lighting-2.webp"
-    alt: "夜裡起床不摸黑：臥室到廁所的照明與動線檢查的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-night-path-lighting-1.webp
+  alt: 夜間發光的小型燈具
+  caption: 小型夜燈示意，適合提醒臥室到廁所路徑可保留低亮度照明。攝影／作者：J.Doniyorovich；來源：Wikimedia Commons；授權：CC0。
+- file: /assets/images/posts/2026-08-19-night-path-lighting-2.webp
+  alt: 夜晚走廊中的燈光與通道
+  caption: 夜晚走廊照明的一般情境，示意動線需要看得清楚且不刺眼。攝影／作者：Patiala.singh；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-night-path-lighting.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-night-path-lighting-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-night-path-lighting-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-night-path-lighting.webp
+  creator: PatongHarbor
+  source: https://commons.wikimedia.org/wiki/File:Bedside_Table_Lamp.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x630, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-night-path-lighting-1.webp
+  creator: J.Doniyorovich
+  source: https://commons.wikimedia.org/wiki/File:Night_light_ball.jpg
+  license: CC0
+  license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-night-path-lighting-2.webp
+  creator: Patiala.singh
+  source: https://commons.wikimedia.org/wiki/File:The_Corridor_at_Night.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
 sources:
-  - title: "國民健康署｜長者防跌妙招手冊"
-    url: "https://www.hpa.gov.tw/Pages/EBook.aspx?nodeid=1193"
-    date: "unknown"
-  - title: "衛福部｜跌不償失 老人居家防跌5要點"
-    url: "https://www.mohw.gov.tw/cp-4635-51615-1.html"
-    date: "unknown"
-  - title: "NHS｜Falls prevention"
-    url: "https://www.nhs.uk/conditions/falls/prevention/"
-    date: "unknown"
+- title: 國民健康署｜長者防跌妙招手冊
+  url: https://www.hpa.gov.tw/Pages/EBook.aspx?nodeid=1193
+  date: unknown
+- title: 衛福部｜跌不償失 老人居家防跌5要點
+  url: https://www.mohw.gov.tw/cp-4635-51615-1.html
+  date: unknown
+- title: NHS｜Falls prevention
+  url: https://www.nhs.uk/conditions/falls/prevention/
+  date: unknown
 ---
 
 ## 30秒看懂
@@ -57,8 +64,8 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-night-path-lighting-1.webp' | relative_url }}" alt="夜裡起床不摸黑：臥室到廁所的照明與動線檢查相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-night-path-lighting-1.webp' | relative_url }}" alt="夜晚走廊中的燈光與通道" width="1200" height="800" loading="lazy">
+  <figcaption>夜晚走廊照明的一般情境，示意動線需要看得清楚且不刺眼。攝影／作者：Patiala.singh；來源：Wikimedia Commons；授權：CC BY-SA 4.0。</figcaption>
 </figure>
 
 

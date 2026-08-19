@@ -1,48 +1,52 @@
 ---
 layout: post
-title: "把日子排出重心：熟齡生活的「小期待」清單"
+title: 把日子排出重心：熟齡生活的「小期待」清單
 slug: small-expectations
-description: "從一杯茶、一通電話到固定散步，把每天排進一點小期待，讓熟齡生活更有重心。"
+description: 從一杯茶、一通電話到固定散步，把每天排進一點小期待，讓熟齡生活更有重心。
 category: wellbeing
-category_name: "心｜天天好心情"
-tags: ["天天好心情", "熟齡生活", "生活儀式", "情緒支持"]
+category_name: 心｜天天好心情
+tags:
+- 天天好心情
+- 熟齡生活
+- 生活儀式
+- 情緒支持
 risk_level: green
-image: "/assets/images/posts/2026-08-19-small-expectations.webp"
-image_alt: "把日子排出重心：熟齡生活的「小期待」清單自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-small-expectations.webp
+image_alt: 桌面上一杯溫熱茶飲
+image_caption: 日常中給自己一點期待。照片：Fitrah 9131／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-small-expectations-1.webp"
-    alt: "把日子排出重心：熟齡生活的「小期待」清單相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-small-expectations-2.webp"
-    alt: "把日子排出重心：熟齡生活的「小期待」清單的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-small-expectations-1.webp
+  alt: 桌面上的筆記本、筆與眼鏡
+  caption: 寫下小小期待與生活安排。照片：Shixart1985／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
+- file: /assets/images/posts/2026-08-19-small-expectations-2.webp
+  alt: 森林步道旁可休息的長椅
+  caption: 外出坐下透氣的一般情境。照片：H. Zell／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-small-expectations.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-small-expectations-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-small-expectations-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-small-expectations.webp
+  creator: Fitrah 9131
+  source: https://commons.wikimedia.org/wiki/File:A_cup_of_warm_tea.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×630、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-small-expectations-1.webp
+  creator: Shixart1985
+  source: https://commons.wikimedia.org/wiki/File:Desk_with_notebook_pens_and_glasses.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
+- file: /assets/images/posts/2026-08-19-small-expectations-2.webp
+  creator: H. Zell
+  source: https://commons.wikimedia.org/wiki/File:Lothar_Path_-_Black_Forest_National_Park_-_bench_01.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0/
+  modifications: 裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 4.0 授權。
 sources:
-  - title: "WHO mental health of older adults fact sheet"
-    url: "https://www.who.int/news-room/fact-sheets/detail/mental-health-of-older-adults"
-    date: "unknown"
-  - title: "國民健康署長者健康促進入口"
-    url: "https://www.hpa.gov.tw/Pages/List.aspx?nodeid=40"
-    date: "unknown"
+- title: WHO mental health of older adults fact sheet
+  url: https://www.who.int/news-room/fact-sheets/detail/mental-health-of-older-adults
+  date: unknown
+- title: 國民健康署長者健康促進入口
+  url: https://www.hpa.gov.tw/Pages/List.aspx?nodeid=40
+  date: unknown
 ---
 ## 30秒看懂
 
@@ -53,8 +57,8 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-small-expectations-1.webp' | relative_url }}" alt="把日子排出重心：熟齡生活的「小期待」清單相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-small-expectations-1.webp' | relative_url }}" alt="桌面上的筆記本、筆與眼鏡" width="1200" height="800" loading="lazy">
+  <figcaption>寫下小小期待與生活安排。照片：Shixart1985／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 ### 1. 小期待要小到今天就能開始
@@ -66,8 +70,8 @@ sources:
 ### 2. 分成身體、關係、學習、享受四類
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-small-expectations-2.webp' | relative_url }}" alt="把日子排出重心：熟齡生活的「小期待」清單的日常實踐自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-small-expectations-2.webp' | relative_url }}" alt="森林步道旁可休息的長椅" width="1200" height="800" loading="lazy">
+  <figcaption>外出坐下透氣的一般情境。照片：H. Zell／Wikimedia Commons／CC BY-SA 4.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 小期待如果只靠靈感，很容易忘記。可以準備一張清單，分成四類：身體類例如散步、伸展、曬太陽；關係類例如通電話、一起吃飯、問候鄰居；學習類例如讀短文、學手機功能、聽講座；享受類例如泡茶、聽老歌、看花、整理照片。

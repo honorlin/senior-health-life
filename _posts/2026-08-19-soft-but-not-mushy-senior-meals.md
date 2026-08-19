@@ -1,51 +1,58 @@
 ---
 layout: post
-title: "樂齡餐桌的「軟而不爛」：從切法、蒸煮到擺盤的5個小技巧"
+title: 樂齡餐桌的「軟而不爛」：從切法、蒸煮到擺盤的5個小技巧
 slug: soft-but-not-mushy-senior-meals
-description: "熟齡餐桌不一定要煮到糊爛，從切法、熟度、湯汁與擺盤開始，讓家常菜更好入口也更有食慾。"
+description: 熟齡餐桌不一定要煮到糊爛，從切法、熟度、湯汁與擺盤開始，讓家常菜更好入口也更有食慾。
 category: nutrition
-category_name: "食｜每日好營養"
-tags: ["樂齡飲食", "家常料理", "長者營養", "食物質地"]
+category_name: 食｜每日好營養
+tags:
+- 樂齡飲食
+- 家常料理
+- 長者營養
+- 食物質地
 risk_level: blue
-image: "/assets/images/posts/2026-08-19-soft-but-not-mushy-senior-meals.webp"
-image_alt: "樂齡餐桌的「軟而不爛」：從切法、蒸煮到擺盤的5個小技巧自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-soft-but-not-mushy-senior-meals.webp
+image_alt: 桌上擺放含蔬菜與主食的家常料理
+image_caption: 一般家庭餐桌上的料理與蔬菜，示意軟而不爛的餐盤安排。攝影／作者：HaJunkiyada；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-soft-but-not-mushy-senior-meals-1.webp"
-    alt: "樂齡餐桌的「軟而不爛」：從切法、蒸煮到擺盤的5個小技巧相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-soft-but-not-mushy-senior-meals-2.webp"
-    alt: "樂齡餐桌的「軟而不爛」：從切法、蒸煮到擺盤的5個小技巧的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-soft-but-not-mushy-senior-meals-1.webp
+  alt: 含海鮮與蔬菜的家常餐點近照
+  caption: 含海鮮與蔬菜的家常餐點，可作為切小、煮透與濕潤度安排的參考。攝影／作者：HaJunkiyada；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
+- file: /assets/images/posts/2026-08-19-soft-but-not-mushy-senior-meals-2.webp
+  alt: 從上方拍攝的多色餐盤與配菜
+  caption: 多色餐盤與配菜示意，提醒餐點的顏色與食慾也很重要。攝影／作者：Andy Li；來源：Wikimedia Commons；授權：CC0。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-soft-but-not-mushy-senior-meals.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-soft-but-not-mushy-senior-meals-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-soft-but-not-mushy-senior-meals-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-soft-but-not-mushy-senior-meals.webp
+  creator: HaJunkiyada
+  source: https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Home_cooked_healthy_meal.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x630, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-soft-but-not-mushy-senior-meals-1.webp
+  creator: HaJunkiyada
+  source: https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Home_cooked_seafood_and_vegetable_meal.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-soft-but-not-mushy-senior-meals-2.webp
+  creator: Andy Li
+  source: https://commons.wikimedia.org/wiki/File:Dinner_at_Terre_%C3%A0_Terre_(top_view)_2023-07-30.jpg
+  license: CC0
+  license_url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
 sources:
-  - title: "國民健康署營養及健康飲食促進資源平台｜長者營養"
-    url: "https://healthydiet.hpa.gov.tw/resource/knowledge/elder"
-    date: "unknown"
-  - title: "國民健康署｜攜手共建高齡友善飲食環境"
-    url: "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=4705&pid=17687"
-    date: "unknown"
-  - title: "WHO｜Healthy diet"
-    url: "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
-    date: "unknown"
+- title: 國民健康署營養及健康飲食促進資源平台｜長者營養
+  url: https://healthydiet.hpa.gov.tw/resource/knowledge/elder
+  date: unknown
+- title: 國民健康署｜攜手共建高齡友善飲食環境
+  url: https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=4705&pid=17687
+  date: unknown
+- title: WHO｜Healthy diet
+  url: https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+  date: unknown
 ---
 
 ## 30秒看懂
@@ -57,8 +64,8 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-soft-but-not-mushy-senior-meals-1.webp' | relative_url }}" alt="樂齡餐桌的「軟而不爛」：從切法、蒸煮到擺盤的5個小技巧相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-soft-but-not-mushy-senior-meals-1.webp' | relative_url }}" alt="從上方拍攝的多色餐盤與配菜" width="1200" height="800" loading="lazy">
+  <figcaption>多色餐盤與配菜示意，提醒餐點的顏色與食慾也很重要。攝影／作者：Andy Li；來源：Wikimedia Commons；授權：CC0。</figcaption>
 </figure>
 
 

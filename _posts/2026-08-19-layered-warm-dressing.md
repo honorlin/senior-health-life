@@ -1,51 +1,58 @@
 ---
 layout: post
-title: "天氣變化大時怎麼穿：長輩洋蔥式穿搭與保暖小提醒"
+title: 天氣變化大時怎麼穿：長輩洋蔥式穿搭與保暖小提醒
 slug: layered-warm-dressing
-description: "忽冷忽熱的日子，用內層透氣、中層保暖、外層擋風的洋蔥式穿法，讓外出更舒服。"
+description: 忽冷忽熱的日子，用內層透氣、中層保暖、外層擋風的洋蔥式穿法，讓外出更舒服。
 category: clothing
-category_name: "衣｜自在好穿著"
-tags: ["洋蔥式穿搭", "保暖", "熟齡穿著", "外出準備"]
+category_name: 衣｜自在好穿著
+tags:
+- 洋蔥式穿搭
+- 保暖
+- 熟齡穿著
+- 外出準備
 risk_level: green
-image: "/assets/images/posts/2026-08-19-layered-warm-dressing.webp"
-image_alt: "天氣變化大時怎麼穿：長輩洋蔥式穿搭與保暖小提醒自製插圖"
-image_caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+image: /assets/images/posts/2026-08-19-layered-warm-dressing.webp
+image_alt: 服飾店內掛著冬季外套與上衣
+image_caption: 冬季外套與上衣陳列，示意依氣溫準備外層衣物。攝影／作者：Tisahd 23 HAOEYVMA；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
 inline_images:
-  - file: "/assets/images/posts/2026-08-19-layered-warm-dressing-1.webp"
-    alt: "天氣變化大時怎麼穿：長輩洋蔥式穿搭與保暖小提醒相關生活細節自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
-  - file: "/assets/images/posts/2026-08-19-layered-warm-dressing-2.webp"
-    alt: "天氣變化大時怎麼穿：長輩洋蔥式穿搭與保暖小提醒的日常實踐自製插圖"
-    caption: "台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。"
+- file: /assets/images/posts/2026-08-19-layered-warm-dressing-1.webp
+  alt: 衣架上多件保暖外套與針織衣
+  caption: 多件保暖外套與針織衣，示意洋蔥式穿搭可依活動增減。攝影／作者：Tisahd 23 HAOEYVMA；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
+- file: /assets/images/posts/2026-08-19-layered-warm-dressing-2.webp
+  alt: 穿著冬季外套與圍巾的人物在戶外
+  caption: 冬季外套與圍巾的一般穿著情境，提醒脖子與外層保暖。攝影／作者：Peachyeung316；來源：Wikimedia Commons；授權：CC BY-SA 4.0。
 photo_credits:
-  - file: "/assets/images/posts/2026-08-19-layered-warm-dressing.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-layered-warm-dressing-1.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
-  - file: "/assets/images/posts/2026-08-19-layered-warm-dressing-2.webp"
-    creator: "台灣樂齡好生活編輯部"
-    source: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    license: "Self-owned editorial illustration"
-    license_url: "self-owned://taiwan-senior-wellbeing/editorial-illustration"
-    modifications: "以品牌視覺製作為 WebP 自製插圖；非真實照片。"
+- file: /assets/images/posts/2026-08-19-layered-warm-dressing.webp
+  creator: Tisahd 23 HAOEYVMA
+  source: https://commons.wikimedia.org/wiki/File:HK_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_PopCorn_mall_shop_Uniqlo_Clothing_Store_%E5%86%AC%E5%AD%A3_winter_top_jacket_December_2022_Px3_01.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x630, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-layered-warm-dressing-1.webp
+  creator: Tisahd 23 HAOEYVMA
+  source: https://commons.wikimedia.org/wiki/File:HK_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_PopCorn_mall_shop_Uniqlo_Clothing_Store_%E5%86%AC%E5%AD%A3_winter_top_jacket_December_2022_Px3_07.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
+- file: /assets/images/posts/2026-08-19-layered-warm-dressing-2.webp
+  creator: Peachyeung316
+  source: https://commons.wikimedia.org/wiki/File:A_Winter_man.jpg
+  license: CC BY-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-sa/4.0
+  modifications: Downloaded original from Wikimedia Commons; center-cropped, resized to 1200x800, and converted to WebP quality
+    86. No objects or people were added or removed.
 sources:
-  - title: "中央氣象署｜天氣預報與氣象服務"
-    url: "https://www.cwa.gov.tw/V8/C/"
-    date: "unknown"
-  - title: "國民健康署｜長者健康促進入口"
-    url: "https://www.hpa.gov.tw/Pages/List.aspx?nodeid=40"
-    date: "unknown"
-  - title: "NHS｜Keep warm, keep well"
-    url: "https://www.nhs.uk/live-well/seasonal-health/keep-warm-keep-well/"
-    date: "unknown"
+- title: 中央氣象署｜天氣預報與氣象服務
+  url: https://www.cwa.gov.tw/V8/C/
+  date: unknown
+- title: 國民健康署｜長者健康促進入口
+  url: https://www.hpa.gov.tw/Pages/List.aspx?nodeid=40
+  date: unknown
+- title: NHS｜Keep warm, keep well
+  url: https://www.nhs.uk/live-well/seasonal-health/keep-warm-keep-well/
+  date: unknown
 ---
 
 ## 30秒看懂
@@ -57,8 +64,8 @@ sources:
 ## 實用內容
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-layered-warm-dressing-1.webp' | relative_url }}" alt="天氣變化大時怎麼穿：長輩洋蔥式穿搭與保暖小提醒相關生活細節自製插圖" width="1200" height="800" loading="lazy">
-  <figcaption>台灣樂齡好生活自製插圖；非真實照片，用於說明生活情境。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-layered-warm-dressing-1.webp' | relative_url }}" alt="穿著冬季外套與圍巾的人物在戶外" width="1200" height="800" loading="lazy">
+  <figcaption>冬季外套與圍巾的一般穿著情境，提醒脖子與外層保暖。攝影／作者：Peachyeung316；來源：Wikimedia Commons；授權：CC BY-SA 4.0。</figcaption>
 </figure>
 
 
