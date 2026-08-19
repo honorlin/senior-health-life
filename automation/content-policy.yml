@@ -6,6 +6,14 @@ auto_publish:
   maximum_posts_per_day: 1
   minimum_images_per_post: 3
 image_policy:
+  real_photo_priority: true
+  target_real_photos_per_post: 3
+  require_local_copy: true
+  forbid_hotlinking: true
+  allowed_license_examples: [CC0, CC-BY, CC-BY-SA, explicit_written_permission]
+  require_photo_credits: [creator, source_url, license_name, license_url, modifications]
+  allowed_edits: [responsive_crop, straighten, exposure, contrast, color_correction, light_sharpening, web_compression]
+  forbidden_edits: [misleading_object_change, person_addition_or_removal, altered_safety_condition, falsified_landmark_detail]
   required:
     cover_images: 1
     inline_images: 2
