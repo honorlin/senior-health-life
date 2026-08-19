@@ -43,6 +43,11 @@ sources:
 
 參觀時不必每一區都看完。先選一、兩個最感興趣的展覽，中途找座位休息，反而更能留下印象。
 
+<figure class="article-figure">
+  <img src="{{ '/assets/images/posts/2026-08-19-chiayi-south-museum.svg' | relative_url }}" alt="兩位熟齡旅人在故宮南院寬敞明亮的展館內慢慢欣賞展覽" width="1200" height="800" loading="lazy">
+  <figcaption>先挑最感興趣的展覽，走累了就坐下休息，讓看展成為舒服的享受。</figcaption>
+</figure>
+
 ### 第二站：檜意森活村——老屋、樹影與生活故事
 
 檜意森活村位於嘉義市，園區保留一群檜木歷史建築，適合散步、拍照，也能認識嘉義林業文化。
@@ -50,6 +55,11 @@ sources:
 官方資訊指出，園區旅客服務中心可協助在部分空間架設移動坡道。若同行者使用輪椅或行動較慢，抵達後可以先到旅客服務中心詢問當天適合的參觀動線。
 
 園區戶外空間可自由調整步調。喜歡拍照的人可以慢慢找角度；想休息的人，也不必勉強跟著走完整圈。
+
+<figure class="article-figure">
+  <img src="{{ '/assets/images/posts/2026-08-19-chiayi-hinoki-village.svg' | relative_url }}" alt="兩位熟齡朋友在檜意森活村的檜木老屋與樹影間散步聊天" width="1200" height="800" loading="lazy">
+  <figcaption>檜木老屋與樹影適合慢慢走、慢慢聊，行程不必塞得太滿。</figcaption>
+</figure>
 
 ## 建議的一日節奏
 
