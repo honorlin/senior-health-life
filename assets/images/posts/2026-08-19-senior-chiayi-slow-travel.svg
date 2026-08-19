@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">嘉義樂齡慢旅行</title>
+<desc id="desc">暖黃色夕陽下，兩位熟齡旅人走向博物館與檜木老屋</desc>
+<rect width="1200" height="630" fill="#f7f3e8"/>
+<circle cx="915" cy="128" r="86" fill="#f4cf66"/>
+<path d="M0 435C150 388 274 404 415 447s281 52 412 9 244-38 373 4v170H0Z" fill="#d9b85e"/>
+<path d="M0 500c165-36 284-29 420 9s280 42 433 2 245-25 347 10v109H0Z" fill="#263b35"/>
+<path d="M150 210h330v222H150z" fill="#fffaf0" stroke="#76500a" stroke-width="8"/>
+<path d="M125 210h380l-62-58H190z" fill="#c58a12"/>
+<path d="M215 275h72v157h-72zm132 0h72v157h-72z" fill="#f4cf66" stroke="#76500a" stroke-width="6"/>
+<path d="M705 405V224c0-40 33-73 73-73h186c40 0 73 33 73 73v181" fill="#fff" stroke="#263b35" stroke-width="9"/>
+<path d="M760 405V265h222v140" fill="#dfe7e2"/>
+<path d="M826 405V290h90v115" fill="#f4cf66"/>
+<g transform="translate(535 310)">
+<circle cx="60" cy="42" r="28" fill="#d9a06f"/>
+<path d="M30 73c17-18 63-18 79 0l13 113H17z" fill="#c58a12"/>
+<path d="M45 35c5-28 39-35 53-12 6 9 5 17 2 25-8-11-19-16-31-17-9 8-18 11-24 12z" fill="#4b4139"/>
+<path d="M48 184l-9 92m58-92 20 92" stroke="#263b35" stroke-width="16" stroke-linecap="round"/>
+</g>
+<g transform="translate(650 322)">
+<circle cx="60" cy="42" r="28" fill="#d39b6c"/>
+<path d="M29 73c18-18 64-18 80 0l12 111H18z" fill="#fffaf0"/>
+<path d="M43 34c1-25 31-38 51-20 10 9 12 22 8 34-7-12-19-19-34-20-8 9-17 13-25 13z" fill="#e6e1d7"/>
+<path d="M47 182l-8 94m59-94 17 94" stroke="#263b35" stroke-width="16" stroke-linecap="round"/>
+</g>
+<path d="M636 402c16 10 24 10 39 0" fill="none" stroke="#76500a" stroke-width="8" stroke-linecap="round"/>
+<rect x="70" y="65" width="470" height="112" rx="12" fill="#263b35"/>
+<text x="105" y="120" fill="#f4cf66" font-size="28" font-weight="700" font-family="sans-serif">樂｜樂活好時光</text>
+<text x="105" y="158" fill="#ffffff" font-size="24" font-family="sans-serif">嘉義文化慢旅行・把步調留給好心情</text>
+</svg>
