@@ -4,6 +4,19 @@ auto_publish:
   minimum_sources: 2
   require_approved_domain: true
   maximum_posts_per_day: 1
+  minimum_images_per_post: 3
+image_policy:
+  required:
+    cover_images: 1
+    inline_images: 2
+  directory: assets/images/posts
+  cover_viewbox: "0 0 1200 630"
+  inline_viewbox_allowed: ["0 0 1200 800", "0 0 1200 630"]
+  require_traditional_chinese_alt: true
+  require_caption: true
+  atomic_publish_with_post: true
+  forbidden_svg_elements: [script, foreignObject]
+  forbidden_content: [external_url, embedded_raster, base64, third_party_logo, real_person_likeness, treatment_claim]
 editorial_scope:
   required_dimensions: [食, 衣, 住, 行, 育, 樂, 活動, 睡眠, 心情, 陪伴, 保健知識, 數位安全]
   balance_window_days: 30
