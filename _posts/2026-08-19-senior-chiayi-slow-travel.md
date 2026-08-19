@@ -7,9 +7,28 @@ category: leisure
 category_name: 樂｜樂活好時光
 tags: [樂齡旅遊, 嘉義景點, 故宮南院, 檜意森活村, 一日遊]
 risk_level: green
-image: /assets/images/posts/2026-08-19-senior-chiayi-slow-travel.svg
-image_alt: "暖黃色夕陽下，兩位熟齡旅人走向博物館與檜木老屋的嘉義慢旅行插畫"
-image_caption: "把行程排鬆一點，才能把風景和好心情一起帶回家。"
+image: /assets/images/posts/2026-08-19-senior-chiayi-slow-travel.webp
+image_alt: "國立故宮博物院南部院區主體建築、至美橋與水景"
+image_caption: "故宮南院主體與至美橋。照片：B2322858／Wikimedia Commons／公有領域；經裁切與網頁壓縮。"
+photo_credits:
+  - file: "/assets/images/posts/2026-08-19-senior-chiayi-slow-travel.webp"
+    creator: "B2322858"
+    source: "https://commons.wikimedia.org/wiki/File:Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg"
+    license: "Public Domain"
+    license_url: "https://commons.wikimedia.org/wiki/File:Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg#Licensing"
+    modifications: "裁切為 1200×630、移除中繼資料並轉為 WebP 壓縮。"
+  - file: "/assets/images/posts/2026-08-19-chiayi-south-museum.webp"
+    creator: "pang yu liu"
+    source: "https://commons.wikimedia.org/wiki/File:National_Palace_Museum_Southern_Branch_under_blue_sky_with_clouds_on_19_August_2017.jpg"
+    license: "CC BY-SA 2.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/2.0/"
+    modifications: "裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 2.0 授權。"
+  - file: "/assets/images/posts/2026-08-19-chiayi-hinoki-village.webp"
+    creator: "Malcolm Koo（Mk2010）"
+    source: "https://commons.wikimedia.org/wiki/File:Hinoki_Village,_Chiayi_City_20130505.jpg"
+    license: "CC BY-SA 3.0"
+    license_url: "https://creativecommons.org/licenses/by-sa/3.0/"
+    modifications: "裁切為 1200×800、移除中繼資料並轉為 WebP 壓縮。衍生圖片依 CC BY-SA 3.0 授權。"
 sources:
   - title: "國立故宮博物院南部院區：無障礙設施"
     url: "https://south.npm.gov.tw/Visit/BarrierFree/DisabledAccess.htm"
@@ -44,8 +63,8 @@ sources:
 參觀時不必每一區都看完。先選一、兩個最感興趣的展覽，中途找座位休息，反而更能留下印象。
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-chiayi-south-museum.svg' | relative_url }}" alt="兩位熟齡旅人在故宮南院寬敞明亮的展館內慢慢欣賞展覽" width="1200" height="800" loading="lazy">
-  <figcaption>先挑最感興趣的展覽，走累了就坐下休息，讓看展成為舒服的享受。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-chiayi-south-museum.webp' | relative_url }}" alt="藍天白雲下的國立故宮博物院南部院區主體建築與水景" width="1200" height="800" loading="lazy">
+  <figcaption>故宮南院建築與水景。照片：pang yu liu／Wikimedia Commons／CC BY-SA 2.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 ### 第二站：檜意森活村——老屋、樹影與生活故事
@@ -57,8 +76,8 @@ sources:
 園區戶外空間可自由調整步調。喜歡拍照的人可以慢慢找角度；想休息的人，也不必勉強跟著走完整圈。
 
 <figure class="article-figure">
-  <img src="{{ '/assets/images/posts/2026-08-19-chiayi-hinoki-village.svg' | relative_url }}" alt="兩位熟齡朋友在檜意森活村的檜木老屋與樹影間散步聊天" width="1200" height="800" loading="lazy">
-  <figcaption>檜木老屋與樹影適合慢慢走、慢慢聊，行程不必塞得太滿。</figcaption>
+  <img src="{{ '/assets/images/posts/2026-08-19-chiayi-hinoki-village.webp' | relative_url }}" alt="嘉義市檜意森活村入口木牌、檜木老屋與廣場" width="1200" height="800" loading="lazy">
+  <figcaption>檜意森活村的檜木老屋與廣場。照片：Malcolm Koo（Mk2010）／Wikimedia Commons／CC BY-SA 3.0；經裁切與網頁壓縮。</figcaption>
 </figure>
 
 ## 建議的一日節奏
