@@ -4,6 +4,7 @@ lang: zh-TW
 timezone: Asia/Taipei
 url: "https://honorlin.github.io"
 baseurl: "/senior-health-life"
+google_analytics: "G-MRJB6HPFWJ"
 permalink: /articles/:year/:month/:day/:title/
 markdown: kramdown
 future: false
